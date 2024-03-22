@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>针对线性代数 行列式的部分总结 | 岁杪二四</title>
+    <meta name="generator" content="VuePress 1.9.9">
+    <link rel="icon" href="/favicon.ico">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/2.10.0/github-markdown.min.css">
+    <meta name="description" content="岁杪二四的个人主页">
+    
+    <link rel="preload" href="/assets/css/0.styles.9fedd99d.css" as="style"><link rel="preload" href="/assets/js/app.faa0273c.js" as="script"><link rel="preload" href="/assets/js/3.ccb3fba6.js" as="script"><link rel="preload" href="/assets/js/1.d1ba4edc.js" as="script"><link rel="preload" href="/assets/js/12.312952a6.js" as="script"><link rel="prefetch" href="/assets/js/10.ae686975.js"><link rel="prefetch" href="/assets/js/11.739fac9e.js"><link rel="prefetch" href="/assets/js/13.9cfdf6f8.js"><link rel="prefetch" href="/assets/js/14.17a4b367.js"><link rel="prefetch" href="/assets/js/15.d46f9ad2.js"><link rel="prefetch" href="/assets/js/16.f61e97c5.js"><link rel="prefetch" href="/assets/js/17.52e6e0d6.js"><link rel="prefetch" href="/assets/js/18.efda72b4.js"><link rel="prefetch" href="/assets/js/19.11fb224a.js"><link rel="prefetch" href="/assets/js/20.ca95ecdf.js"><link rel="prefetch" href="/assets/js/21.4677dc08.js"><link rel="prefetch" href="/assets/js/22.0a78704f.js"><link rel="prefetch" href="/assets/js/4.5707286e.js"><link rel="prefetch" href="/assets/js/5.d383beda.js"><link rel="prefetch" href="/assets/js/6.21aac315.js"><link rel="prefetch" href="/assets/js/7.2a5d4704.js"><link rel="prefetch" href="/assets/js/8.d8e95361.js"><link rel="prefetch" href="/assets/js/9.2115634f.js">
+    <link rel="stylesheet" href="/assets/css/0.styles.9fedd99d.css">
+  </head>
+  <body>
+    <div id="app" data-server-rendered="true"><div class="theme-container no-sidebar" data-v-7dd95ae2><div data-v-7dd95ae2><div class="password-shadow password-wrapper-out" style="display:none;" data-v-59e6cb88 data-v-7dd95ae2 data-v-7dd95ae2><h3 class="title" data-v-59e6cb88>岁杪二四</h3> <p class="description" data-v-59e6cb88>岁杪二四的个人主页</p> <label id="box" class="inputBox" data-v-59e6cb88><input type="password" value="" data-v-59e6cb88> <span data-v-59e6cb88>Konck! Knock!</span> <button data-v-59e6cb88>OK</button></label> <div class="footer" data-v-59e6cb88><span data-v-59e6cb88><i class="iconfont reco-theme" data-v-59e6cb88></i> <a target="blank" href="https://vuepress-theme-reco.recoluan.com" data-v-59e6cb88>vuePress-theme-reco</a></span> <span data-v-59e6cb88><i class="iconfont reco-copyright" data-v-59e6cb88></i> <a data-v-59e6cb88><span data-v-59e6cb88>岁杪二四</span>
+          
+        <!---->
+        2024
+      </a></span></div></div> <div class="hide" data-v-7dd95ae2><header class="navbar" data-v-7dd95ae2><div class="sidebar-button"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" viewBox="0 0 448 512" class="icon"><path fill="currentColor" d="M436 124H12c-6.627 0-12-5.373-12-12V80c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12z"></path></svg></div> <a href="/" class="home-link router-link-active"><img src="/assets/img/logo.png" alt="岁杪二四" class="logo"> <span class="site-name">岁杪二四</span></a> <div class="links"><div class="color-picker"><a class="color-button"><i class="iconfont reco-color"></i></a> <div class="color-picker-menu" style="display:none;"><div class="mode-options"><h4 class="title">Choose mode</h4> <ul class="color-mode-options"><li class="dark">dark</li><li class="auto active">auto</li><li class="light">light</li></ul></div></div></div> <div class="search-box"><i class="iconfont reco-search"></i> <input aria-label="Search" autocomplete="off" spellcheck="false" value=""> <!----></div> <nav class="nav-links can-hide"><div class="nav-item"><a href="/" class="nav-link"><i class="iconfont reco-home"></i>
+  主页
+</a></div><div class="nav-item"><a href="/about/" class="nav-link"><i class="iconfont reco-faq"></i>
+  导引
+</a></div><div class="nav-item"><a href="/timeline/" class="nav-link"><i class="iconfont reco-date"></i>
+  TimeLine
+</a></div><div class="nav-item"><a href="https://google.com" target="_blank" rel="noopener noreferrer" class="nav-link external"><i class="undefined"></i>
+  External
+  <span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></div> <!----></nav></div></header> <div class="sidebar-mask" data-v-7dd95ae2></div> <aside class="sidebar" data-v-7dd95ae2><div class="personal-info-wrapper" data-v-1fad0c41 data-v-7dd95ae2><img src="/avatar.png" alt="author-avatar" class="personal-img" data-v-1fad0c41> <h3 class="name" data-v-1fad0c41>
+    岁杪二四
+  </h3> <div class="num" data-v-1fad0c41><div data-v-1fad0c41><h3 data-v-1fad0c41>12</h3> <h6 data-v-1fad0c41>Articles</h6></div> <div data-v-1fad0c41><h3 data-v-1fad0c41>4</h3> <h6 data-v-1fad0c41>Tags</h6></div></div> <ul class="social-links" data-v-1fad0c41></ul> <hr data-v-1fad0c41></div> <nav class="nav-links"><div class="nav-item"><a href="/" class="nav-link"><i class="iconfont reco-home"></i>
+  主页
+</a></div><div class="nav-item"><a href="/about/" class="nav-link"><i class="iconfont reco-faq"></i>
+  导引
+</a></div><div class="nav-item"><a href="/timeline/" class="nav-link"><i class="iconfont reco-date"></i>
+  TimeLine
+</a></div><div class="nav-item"><a href="https://google.com" target="_blank" rel="noopener noreferrer" class="nav-link external"><i class="undefined"></i>
+  External
+  <span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></div> <!----></nav> <!----> </aside> <div class="password-shadow password-wrapper-in" style="display:none;" data-v-59e6cb88 data-v-7dd95ae2><h3 class="title" data-v-59e6cb88>针对线性代数 行列式的部分总结</h3> <!----> <label id="box" class="inputBox" data-v-59e6cb88><input type="password" value="" data-v-59e6cb88> <span data-v-59e6cb88>Konck! Knock!</span> <button data-v-59e6cb88>OK</button></label> <div class="footer" data-v-59e6cb88><span data-v-59e6cb88><i class="iconfont reco-theme" data-v-59e6cb88></i> <a target="blank" href="https://vuepress-theme-reco.recoluan.com" data-v-59e6cb88>vuePress-theme-reco</a></span> <span data-v-59e6cb88><i class="iconfont reco-copyright" data-v-59e6cb88></i> <a data-v-59e6cb88><span data-v-59e6cb88>岁杪二四</span>
+          
+        <!---->
+        2024
+      </a></span></div></div> <div data-v-7dd95ae2><div data-v-7dd95ae2><main class="page" style="padding-right:0;"><section style="display:;"><div class="page-title"><h1 class="title">针对线性代数 行列式的部分总结</h1> <div data-v-8a445198><i class="iconfont reco-account" data-v-8a445198><span data-v-8a445198>岁杪二四</span></i> <i class="iconfont reco-date" data-v-8a445198><span data-v-8a445198>9/20/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-8a445198><span class="tag-item" data-v-8a445198>线性代数</span></i></div></div> <div class="theme-reco-content content__default"><p>::: info
+信息容器。
+:::</p> <p>::: note
+注释容器。
+:::</p> <div class="custom-block tip"><p class="title"></p><p>提示容器</p></div><div class="custom-block warning"><p class="title"></p><p>警告容器</p></div><div class="custom-block danger"><p class="title"></p><p>危险容器</p></div><details class="custom-block details"><summary>See More</summary> <p>详情容器</p></details> <p>::: info 自定义标题</p> <p>一个有 <code>代码</code> 和 <a href="#markdown">链接</a> 的信息容器。</p> <div class="language-js line-numbers-mode"><pre class="language-js"><code><span class="token keyword">const</span> a <span class="token operator">=</span> <span class="token number">1</span><span class="token punctuation">;</span>
+</code></pre> <div class="line-numbers-wrapper"><span class="line-number">1</span><br></div></div><p>:::</p> <p>::: note 自定义标题</p> <p>一个有 <code>代码</code> 和 <a href="#markdown">链接</a> 的注释容器。</p> <div class="language-js line-numbers-mode"><pre class="language-js"><code><span class="token keyword">const</span> a <span class="token operator">=</span> <span class="token number">1</span><span class="token punctuation">;</span>
+</code></pre> <div class="line-numbers-wrapper"><span class="line-number">1</span><br></div></div><p>:::</p> <div class="custom-block tip"><p class="title">自定义标题</p><p>一个有 <code>代码</code> 和 <a href="#markdown">链接</a> 的提示容器。</p> <div class="language-js line-numbers-mode"><pre class="language-js"><code><span class="token keyword">const</span> a <span class="token operator">=</span> <span class="token number">1</span><span class="token punctuation">;</span>
+</code></pre> <div class="line-numbers-wrapper"><span class="line-number">1</span><br></div></div></div><div class="custom-block warning"><p class="title">自定义标题</p><p>一个有 <code>代码</code> 和 <a href="#markdown">链接</a> 的警告容器。</p> <div class="language-js line-numbers-mode"><pre class="language-js"><code><span class="token keyword">const</span> a <span class="token operator">=</span> <span class="token number">1</span><span class="token punctuation">;</span>
+</code></pre> <div class="line-numbers-wrapper"><span class="line-number">1</span><br></div></div></div><div class="custom-block danger"><p class="title">自定义标题</p><p>一个有 <code>代码</code> 和 <a href="#markdown">链接</a> 的危险容器。</p> <div class="language-js line-numbers-mode"><pre class="language-js"><code><span class="token keyword">const</span> a <span class="token operator">=</span> <span class="token number">1</span><span class="token punctuation">;</span>
+</code></pre> <div class="line-numbers-wrapper"><span class="line-number">1</span><br></div></div></div><details class="custom-block details"><summary>自定义标题</summary> <p>一个有 <code>代码</code> 和 <a href="#markdown">链接</a> 的详情容器。</p> <div class="language-js line-numbers-mode"><pre class="language-js"><code><span class="token keyword">const</span> a <span class="token operator">=</span> <span class="token number">1</span><span class="token punctuation">;</span>
+</code></pre> <div class="line-numbers-wrapper"><span class="line-number">1</span><br></div></div></details> <p>::: info 自定义信息
+:::</p> <p>::: note 自定义注释
+:::</p> <div class="custom-block tip"><p class="title">自定义提示</p></div><div class="custom-block warning"><p class="title">自定义警告</p></div><div class="custom-block danger"><p class="title">自定义危险</p></div><body class="my-custom-page"><div class="draw">
+        draw 
+    </div> <div class="draw meet">
+        meet
+    </div> <div class="center">
+        center
+    </div></body></div></section> <footer class="page-edit"><!----> <div class="last-updated"><span class="prefix">更新时间: </span> <span class="time">10/21/2023, 6:45:02 PM</span></div></footer> <!----> <div class="comments-wrapper"><!----></div></main></div> <!----></div> <ul class="sub-sidebar sub-sidebar-wrapper" style="width:0;" data-v-b57cc07c data-v-7dd95ae2></ul></div></div></div><div class="global-ui"><!----><!----><div class="Sakura" data-v-248d85d6><canvas id="canvas_sakura" style="z-index:-1;" data-v-248d85d6></canvas></div><!----><div class="RibbonAnimation"></div></div></div>
+    <script src="/assets/js/app.faa0273c.js" defer></script><script src="/assets/js/3.ccb3fba6.js" defer></script><script src="/assets/js/1.d1ba4edc.js" defer></script><script src="/assets/js/12.312952a6.js" defer></script>
+  </body>
+</html>
