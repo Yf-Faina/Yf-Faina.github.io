@@ -1,4 +1,77 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>岁杪二四</title><description>blog</description><link>https://faina.me/</link><language>zh_CN</language><item><title>docker 踩坑记录</title><link>https://faina.me/posts/docker_container/</link><guid isPermaLink="true">https://faina.me/posts/docker_container/</guid><pubDate>Sun, 22 Jun 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;最近为了&lt;s&gt;修改实习简历的项目展示&lt;/s&gt;将某管理系统部署出来，选择了&lt;strong&gt;容器化部署&lt;/strong&gt;的方式。&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>岁杪二四</title><description>blog</description><link>https://faina.me/</link><language>zh_CN</language><item><title>2025年终总结</title><link>https://faina.me/posts/summary-2025/</link><guid isPermaLink="true">https://faina.me/posts/summary-2025/</guid><pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;年终总结一拖再拖，古话说得好：一鼓作氣，再而衰，三而竭。所以不能再拖了&lt;/p&gt;
+&lt;p&gt;如果说什么词贯穿了我的一年，那就是：焦虑。&lt;/p&gt;
+&lt;h2&gt;焦虑&lt;/h2&gt;
+&lt;p&gt;今年一年，焦虑情绪如影随形，像一只无形的大手牢牢钳住了我。现实被迫推动我开始审视很多现实问题&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我一点也没做好二十岁的准备，挺纳闷的，就像谁从背后推给我一样。——村上春树&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;焦虑当下&lt;/h3&gt;
+&lt;p&gt;刚进入大学的时候，就听老师、长辈各种说毕业季学生的痛苦，一定要在大学里踏实学习。当时觉得那些无措的人一定是没做好四年的学习规划，对我在未来也会面对的问题嗤之以鼻，而当我也真正站在这样迷茫的位置时，只觉迷茫、不知所措。&lt;/p&gt;
+&lt;p&gt;做事不打提前量，是大忌。人总会对没有来到的日子抱有乐观心态，但当现实真正到来的时候，就是很残酷的。今年给我打的措手不及的事情就是学校不像之前几届学长学姐那样可以选择性实习，而是强制所有学生必须实习四个月，这一下把我一年的考研复习学习计划搅乱了。虽说确实无法预料这样的事情会发生，但假设我能在24年下半旬就逐渐开始针对自己的薄弱学科（数学和专业课）的复习，压力就会大大减小。&lt;/p&gt;
+&lt;h4&gt;内耗&lt;/h4&gt;
+&lt;p&gt;我不得不承认，我是一个极度内耗的人，对自我情绪的处理能力，极其差。我会对一个月内需要做的事情做好计划，这本来应该是一个优点，但一旦现实偏离计划进行，我就会开始担忧后面事情是否能够如期完成，最后人的情绪就会分崩离析。“天塌了”，这个词总是在那时候充满了我的脑子。&lt;/p&gt;
+&lt;p&gt;在这个世界上，实际上很多事情在没发生之前是得不到答案的，比如我小时候绝对不会想到我现在是一个学计算机科学与技术的大学生。而我太想对所有问题得到一个答案，我会无时无刻思索这些问题，想到脑袋发麻，这些得不到准确答案的问题反过来使得我的焦虑、内耗问题严重。&lt;/p&gt;
+&lt;h3&gt;结果导向不可取&lt;/h3&gt;
+&lt;p&gt;结果导向和过程导向，是截然不同的两种心态。而对于上述，我非常需要得到一个答案和结果的情况来说，我是一个不折不扣结果导向的人。&lt;/p&gt;
+&lt;p&gt;现代社会对于人的评价过于&lt;strong&gt;扁平化&lt;/strong&gt;，总是通过各种量化指标衡量一个人是否成功。找工作的时候通过你就读的学校、你的学历衡量你是否优秀；找对象的时候通过你的家庭、你的工作等等衡量你是否是值得之人……真的能这么比吗？种地的农民和坐在办公室里的白领相比就一定是白领更高贵？&lt;/p&gt;
+&lt;p&gt;:::note[贾樟柯《我不诗化自己的经历》]
+我们的文化中有这样一种对“苦难”的崇拜，而且似乎是获得话语权力的一种资本。因此有人便习惯性地要去占有“苦难”，将自己经历过的自认为风暴，而别人，下一代经历过的又算什么？至多只是一点坎坷。&lt;/p&gt;
+&lt;p&gt;在他们的“苦难”与“经历”面前，我们只有“闭嘴”。“苦难”成了一种霸权，并因此衍生出一种价值判断。这让我想起“忆苦思甜”，那时候总以为苦在过去，甜在今天。谁又能想到“思甜的”时候，我们正经历一场劫难。并不能讲年轻的一代就比年长的一代幸福。谁都知道，幸福这种东西并不随物质一起与日俱增。我不认守在电视边、被父母锁在屋里的孩子比阳光下挥汗收麦的知青幸福。每个人有每个人的问题，一代人有一代人的苦恼，没什么高低之分。对待“苦难”也需要有平等精神。
+:::&lt;/p&gt;
+&lt;p&gt;结果导向导致的问题就是，当我付出了心血做某件事，我就一定想要一个好结果。努力一定就会有回报吗？这又是一个伪命题了。我希望我能更注重过程中的成长，道理我都懂，2026年能够在这一块逐渐扭转思维，拭目以待吧。&lt;/p&gt;
+&lt;h3&gt;焦虑未来&lt;/h3&gt;
+&lt;h4&gt;考研&lt;/h4&gt;
+&lt;p&gt;我对我的考研基本持&lt;strong&gt;悲观心态&lt;/strong&gt;，在少了4个月持续高强度学习的情况下，完成考试，基本上也只是为了对得起我最后两个月的冲刺努力，能有好结果吗？显然不见得。&lt;/p&gt;
+&lt;p&gt;但考完研，让我没想到的是，路居然越走越多了。到底是：上班、二战还是留学？以往从未考虑过的道路出现自己的面前，三难选择到底怎么抉择，此刻也还在迷茫中。&lt;/p&gt;
+&lt;h4&gt;就业&lt;/h4&gt;
+&lt;p&gt;这是我当前能抓得住的唯一一棵稻草，我只能说：福祸相依啊。&lt;/p&gt;
+&lt;h2&gt;实习&lt;/h2&gt;
+&lt;p&gt;整个2025年我主要在干的就两件事，一个是考研，还有一个是实习。&lt;/p&gt;
+&lt;p&gt;在整年结束的当下回顾，&lt;strong&gt;实习成了做的最正确的事情&lt;/strong&gt;。不管是运气使然还是我尽自己最大努力抓住了这次机会，一方面在暑假那个特殊的时间节点上，它很好地缓解了那时我的焦虑情绪；另一方面，技术方面得到了全方位的提升，我非常幸运地深度参与了几个项目，为后续的如果考不上研要就业的退路打下了坚实基础。&lt;/p&gt;
+&lt;p&gt;去之前，内心很忐忑。现在网上的风气实在是不好&lt;s&gt;经济下行导致的就业环境也确实烂&lt;/s&gt;，太多人表现出一种：这破班有什么好上的、不要去给资本家当牛马……等，话是不假啦，但是给我这种未入社会的大学生带来了巨大的就业恐惧。面试的时候，询问了一下领导组里基本的情况，除了我以外全都是男的，也有些担忧是否能融入的问题。不过去了之后就发现大家都是很好的人，从他们身上我得到了很多，不管是工作上的经验还是积极的情绪支持都对那个阶段的我具有巨大的价值。&lt;/p&gt;
+&lt;h2&gt;旅行&lt;/h2&gt;
+&lt;p&gt;2025年确实忙忙碌碌，但我还是去了不少地方。&lt;/p&gt;
+&lt;h4&gt;南京&lt;/h4&gt;
+&lt;p&gt;&amp;lt;div style=&quot;display: flex; justify-content: center; align-items: center; gap: 20px; margin: 30px 0; flex-wrap: wrap;&quot;&amp;gt;
+&amp;lt;img src=&quot;https://img.664558.xyz/20260106155726830.jpg&quot; alt=&quot;南京博物院&quot; style=&quot;width: 300px; height: 150px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);&quot;&amp;gt;
+&amp;lt;img src=&quot;https://img.664558.xyz/20260106160022182.jpg&quot; alt=&quot;南京总统府&quot; style=&quot;width: 300px; height: 150px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);&quot;&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/p&gt;
+&lt;p&gt;当时太晚敲定行程，没能约上南京博物院，在外面匆匆望了一眼就走了，谁能想到呢？还没等我去呢，现在南京博物院出事了&lt;/p&gt;
+&lt;h4&gt;福州&lt;/h4&gt;
+&lt;p&gt;在被学校事物纠缠和自己的复习进度无法如期开展的时候，第一次来了一次说走就走的旅行，不计后果。&lt;/p&gt;
+&lt;p&gt;&amp;lt;div style=&quot;display: flex; justify-content: center; align-items: center; gap: 20px; margin: 30px 0; flex-wrap: wrap;&quot;&amp;gt;
+&amp;lt;img src=&quot;https://img.664558.xyz/20260106160929070.jpg&quot; alt=&quot;福州&quot; style=&quot;width: 300px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);&quot;&amp;gt;
+&amp;lt;img src=&quot;https://img.664558.xyz/20260106160824816.jpg&quot; alt=&quot;福州鼓山&quot; style=&quot;width: 300px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);&quot;&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/p&gt;
+&lt;p&gt;在福州鼓山的山顶上，我的脑海里有一首歌：“呜耶，带我到山顶呀，呜耶，忧伤别困扰她”&lt;/p&gt;
+&lt;h4&gt;苏州&lt;/h4&gt;
+&lt;p&gt;小长假就是人挤人，哪里都人挤人，五一的苏州，体验不好，差点把我挤死在寒山寺。&lt;/p&gt;
+&lt;p&gt;&amp;lt;div style=&quot;display: flex; justify-content: center; align-items: center; gap: 20px; margin: 30px 0;&quot;&amp;gt;
+&amp;lt;img src=&quot;https://img.664558.xyz/20260106161600036.jpg&quot; alt=&quot;福州&quot; style=&quot;width: 300px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);&quot;&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/p&gt;
+&lt;p&gt;不过在一个公园里，看到了一个出辛美尔的coser，大抵辛美尔本来就是拯救世界的勇者，看见他的时候感觉我烦扰的心也被治愈了。&lt;/p&gt;
+&lt;h4&gt;深圳&lt;/h4&gt;
+&lt;p&gt;因为在东莞实习，所以深圳去了好多次hhhh，和同事领导们一起去了一次天美工作室，但是照片拍的太难看啦，所以就不放了，这两张都是深圳清华研究生院。&lt;/p&gt;
+&lt;p&gt;&amp;lt;div style=&quot;display: flex; justify-content: center; align-items: center; gap: 20px; margin: 30px 0; flex-wrap: wrap;&quot;&amp;gt;
+&amp;lt;img src=&quot;https://img.664558.xyz/20260106165656083.jpg&quot; alt=&quot;深圳清华研究生院1&quot; style=&quot;width: 350px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);&quot;&amp;gt;
+&amp;lt;img src=&quot;https://img.664558.xyz/20260106165936913.jpg&quot; alt=&quot;深圳清华研究生院2&quot; style=&quot;width: 350px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);&quot;&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/p&gt;
+&lt;h4&gt;广州&lt;/h4&gt;
+&lt;p&gt;上一次来还是2023年暑假，时间飞逝、物是人非。&lt;/p&gt;
+&lt;p&gt;&amp;lt;div style=&quot;display: flex; justify-content: center; align-items: center; gap: 20px; margin: 30px 0;&quot;&amp;gt;
+&amp;lt;img src=&quot;https://img.664558.xyz/20260330161714211.jpg&quot; alt=&quot;广州&quot; style=&quot;width: 300px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);&quot;&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/p&gt;
+&lt;h4&gt;香港&lt;/h4&gt;
+&lt;p&gt;2025年11月1日第一次来香港，不出意外的话我还会去很多次。&lt;/p&gt;
+&lt;p&gt;&amp;lt;div style=&quot;display: flex; justify-content: center; align-items: center; gap: 20px; margin: 30px 0; flex-wrap: wrap;&quot;&amp;gt;
+&amp;lt;img src=&quot;https://img.664558.xyz/20260330162047671.jpg&quot; alt=&quot;香港1&quot; style=&quot;width: 350px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);&quot;&amp;gt;
+&amp;lt;img src=&quot;https://img.664558.xyz/20260330162047728.jpg&quot; alt=&quot;香港2&quot; style=&quot;width: 350px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);&quot;&amp;gt;
+&amp;lt;img src=&quot;https://img.664558.xyz/20260330162047780.jpg&quot; alt=&quot;香港3&quot; style=&quot;width: 350px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);&quot;&amp;gt;
+&amp;lt;img src=&quot;https://img.664558.xyz/20260330162047633.jpg&quot; alt=&quot;香港4&quot; style=&quot;width: 350px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);&quot;&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/p&gt;
+&lt;h2&gt;展望&lt;/h2&gt;
+&lt;p&gt;即便2026没有得到想要的结果，那么进入新的人生阶段（工作），也要找到自己喜爱的事。&lt;/p&gt;
+</content:encoded></item><item><title>docker 踩坑记录</title><link>https://faina.me/posts/docker_container/</link><guid isPermaLink="true">https://faina.me/posts/docker_container/</guid><pubDate>Sun, 22 Jun 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;最近为了&lt;s&gt;修改实习简历的项目展示&lt;/s&gt;将某管理系统部署出来，选择了&lt;strong&gt;容器化部署&lt;/strong&gt;的方式。&lt;/p&gt;
 &lt;h3&gt;什么是docker ？&lt;/h3&gt;
 &lt;p&gt;可以简单理解为一种轻量化的虚拟机。它不需要像虚拟机那样完整的重新虚拟一个新的操作系统$\rightarrow$更轻量化。&lt;/p&gt;
 &lt;p&gt;docker同样具有复用性高、拓展性强等优点。&lt;/p&gt;
@@ -202,7 +275,7 @@
 &lt;p&gt;$$
 &lt;em&gt;{i,j}=\sum&lt;/em&gt;{k,l}w_{i,j,k,l}x_{k,l}=\sum_{a,b}v_{i,j,a,b}x_{i+a,j+b}
 $$&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&quot;https://img.fainablog.tech/20250705211021726.jpg&quot; alt=&quot;权重变形示意图&quot; style=&quot;width: 400px; height: auto; display: block; margin: 0 auto;&quot;&amp;gt;&lt;/p&gt;
+&lt;p&gt;&amp;lt;img src=&quot;https://img.664558.xyz/20250705211021726.jpg&quot; alt=&quot;权重变形示意图&quot; style=&quot;width: 400px; height: auto; display: block; margin: 0 auto;&quot;&amp;gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;$v$是$w$的重新索引$v_{i,j,a,b}=w_{i,j,i+a,j+b}$&lt;/p&gt;
@@ -2233,7 +2306,7 @@ void update(int p, int x, int y) {
 &lt;h3&gt;&lt;strong&gt;第四天8月10日：树状数组（Binary Indexed Tree，BIT )&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;树状数组是一种支持 &lt;strong&gt;单点修改&lt;/strong&gt; 和 &lt;strong&gt;区间查询&lt;/strong&gt; 的，代码量小的数据结构，是利用数的二进制特征进行检索的一种树状结构。&lt;/p&gt;
 &lt;p&gt;下图展示了树状数组的工作原理：
-&lt;img src=&quot;https://img.fainablog.tech/20250314151318632.png&quot; alt=&quot;树状数组&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;https://img.664558.xyz/20250314151318632.png&quot; alt=&quot;树状数组&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;最下面的八个方块代表原始数组$a$。上面参差不齐的方块(与最上面的八个方块是同一个数组)代表数组$a$的上级——$c$数组&lt;/p&gt;
 &lt;p&gt;$c$数组是用来储存原始数组$a$某段区间和的，也就是说，这些区间的信息是已知的，我们的目标就是把查询前缀拆成这些小区间。&lt;/p&gt;
 &lt;p&gt;例如，从图中可以看出：&lt;/p&gt;
@@ -3235,7 +3308,7 @@ int main() {
 &lt;h3&gt;&lt;strong&gt;第三天8月2日：深度优先搜索（Depth-First-Search,DFS）&lt;/strong&gt;&lt;/h3&gt;
 &lt;h4&gt;&lt;strong&gt;第一题 N皇后问题 （模板题、经典）&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;在$N*N$的棋盘上放置N个皇后$(n&amp;lt;=10)$而彼此不受攻击（即在棋盘的任一行，任一列和任一对角线上不能放置2个皇后），编程求解所有的摆放方法。
-&lt;img src=&quot;https://img.fainablog.tech/20250314151746084.png&quot; alt=&quot;倍增法&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;https://img.664558.xyz/20250314151746084.png&quot; alt=&quot;倍增法&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Input&lt;/strong&gt;：$n$&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Output&lt;/strong&gt;：每行输出一种方案，每种方案顺序输出皇后所在的列号，每个数占5列。若无方案，则输出no solute!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Sample&lt;/strong&gt;：&lt;/p&gt;
@@ -3329,7 +3402,7 @@ int main() {
                              4    3    1    2
                              4    3    2    1
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&quot;https://img.fainablog.tech/20250323195206982.png&quot; alt=&quot;搜索和回溯&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://img.664558.xyz/20250323195206982.png&quot; alt=&quot;搜索和回溯&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;代码&lt;/strong&gt;：&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;#include &amp;lt;stdio.h&amp;gt;
 
@@ -3684,7 +3757,7 @@ D[x2+1][y2+1]  +=d;  //由于前面把d减了两次，多减了一次，这里�
 &lt;p&gt;输出数据仅 $1$行，需要包含 $N$ 个正整数。其中，第 $j$ 个正整数表示 $j$ 号边防战士必须参加的前提下至少需要多少名边防战士才能顺利地完成国旗计划。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;思路：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;首先考虑从一个区间出发，如何选择所有的区间。选择一个区间$i$后，下一个区间只能从左端点小于或者等于$i$的右端点的那些区间中选择，这些区间中选择右端点最大的那个区间是最优的。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://img.fainablog.tech/20250323193123718.png&quot; alt=&quot;倍增法|400&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://img.664558.xyz/20250323193123718.png&quot; alt=&quot;倍增法|400&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;如图，选择区间$i$后，下一个区间可以从区间A、B、C中选择，它们的左端点都在$i$内部。C是最优的，因为它的右端点最远。为了快速的高效查询，使用倍增法，预计算出一些“跳板”，快速找到后面的区间。&lt;/p&gt;
 &lt;p&gt;定义 &lt;code&gt;go[s][i]&lt;/code&gt;表示从第$s$个区间出发，走$2^i$个&lt;strong&gt;最优&lt;/strong&gt;区间后到达的区间&lt;/p&gt;
 &lt;p&gt;:::warning
@@ -4437,7 +4510,7 @@ int main(){
 &lt;h4&gt;&lt;strong&gt;2 变量的作用域和变量的生存区&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;&lt;strong&gt;变量的作用域&lt;/strong&gt;：即变量的作用范围（或有效范围）。分为：局部变量和全局变量
 &lt;strong&gt;变量的生存区&lt;/strong&gt;：变量从被生成到被撤销的这段时间。即变量占用内存的时间。分为动态变量和静态变量
-&lt;img src=&quot;https://img.fainablog.tech/20250314145624981.png&quot; alt=&quot;表格&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;https://img.664558.xyz/20250314145624981.png&quot; alt=&quot;表格&quot; /&gt;&lt;/p&gt;
 &lt;h4&gt;&lt;strong&gt;3.1递归的定义和递归函数&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;&lt;strong&gt;基本概念&lt;/strong&gt;：一个函数在它的函数体内调用它自身称为递归调用。这种函数称为递归函数。Ｃ语言允许函数的递归调用。在递归调用中，主调函数又是被调函数。执行递归函数将反复调用其自身，每调用一次就进入新的一层。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;递归函数的构成要素&lt;/strong&gt;：
