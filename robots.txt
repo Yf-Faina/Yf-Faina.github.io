@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /_astro/
 
-Sitemap: https://faina.me/sitemap-index.xml
+Sitemap: https://faina.dev/sitemap-index.xml

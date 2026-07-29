@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>岁杪二四</title><description>blog</description><link>https://faina.me/</link><language>zh_CN</language><item><title>2025年终总结</title><link>https://faina.me/posts/summary-2025/</link><guid isPermaLink="true">https://faina.me/posts/summary-2025/</guid><pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;年终总结一拖再拖，古话说得好：一鼓作氣，再而衰，三而竭。所以不能再拖了&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>岁杪二四</title><description>blog</description><link>https://faina.dev/</link><language>zh_CN</language><item><title>2025年终总结</title><link>https://faina.dev/posts/summary-2025/</link><guid isPermaLink="true">https://faina.dev/posts/summary-2025/</guid><pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;年终总结一拖再拖，古话说得好：一鼓作氣，再而衰，三而竭。所以不能再拖了&lt;/p&gt;
 &lt;p&gt;如果说什么词贯穿了我的一年，那就是：焦虑。&lt;/p&gt;
 &lt;h2&gt;焦虑&lt;/h2&gt;
 &lt;p&gt;今年一年，焦虑情绪如影随形，像一只无形的大手牢牢钳住了我。现实被迫推动我开始审视很多现实问题&lt;/p&gt;
@@ -14,10 +14,11 @@
 &lt;h3&gt;结果导向不可取&lt;/h3&gt;
 &lt;p&gt;结果导向和过程导向，是截然不同的两种心态。而对于上述，我非常需要得到一个答案和结果的情况来说，我是一个不折不扣结果导向的人。&lt;/p&gt;
 &lt;p&gt;现代社会对于人的评价过于&lt;strong&gt;扁平化&lt;/strong&gt;，总是通过各种量化指标衡量一个人是否成功。找工作的时候通过你就读的学校、你的学历衡量你是否优秀；找对象的时候通过你的家庭、你的工作等等衡量你是否是值得之人……真的能这么比吗？种地的农民和坐在办公室里的白领相比就一定是白领更高贵？&lt;/p&gt;
-&lt;p&gt;:::note[贾樟柯《我不诗化自己的经历》]
+&lt;blockquote&gt;
+&lt;p&gt;[!NOTE]贾樟柯《我不诗化自己的经历》
 我们的文化中有这样一种对“苦难”的崇拜，而且似乎是获得话语权力的一种资本。因此有人便习惯性地要去占有“苦难”，将自己经历过的自认为风暴，而别人，下一代经历过的又算什么？至多只是一点坎坷。&lt;/p&gt;
-&lt;p&gt;在他们的“苦难”与“经历”面前，我们只有“闭嘴”。“苦难”成了一种霸权，并因此衍生出一种价值判断。这让我想起“忆苦思甜”，那时候总以为苦在过去，甜在今天。谁又能想到“思甜的”时候，我们正经历一场劫难。并不能讲年轻的一代就比年长的一代幸福。谁都知道，幸福这种东西并不随物质一起与日俱增。我不认守在电视边、被父母锁在屋里的孩子比阳光下挥汗收麦的知青幸福。每个人有每个人的问题，一代人有一代人的苦恼，没什么高低之分。对待“苦难”也需要有平等精神。
-:::&lt;/p&gt;
+&lt;p&gt;在他们的“苦难”与“经历”面前，我们只有“闭嘴”。“苦难”成了一种霸权，并因此衍生出一种价值判断。这让我想起“忆苦思甜”，那时候总以为苦在过去，甜在今天。谁又能想到“思甜的”时候，我们正经历一场劫难。并不能讲年轻的一代就比年长的一代幸福。谁都知道，幸福这种东西并不随物质一起与日俱增。我不认守在电视边、被父母锁在屋里的孩子比阳光下挥汗收麦的知青幸福。每个人有每个人的问题，一代人有一代人的苦恼，没什么高低之分。对待“苦难”也需要有平等精神。&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;结果导向导致的问题就是，当我付出了心血做某件事，我就一定想要一个好结果。努力一定就会有回报吗？这又是一个伪命题了。我希望我能更注重过程中的成长，道理我都懂，2026年能够在这一块逐渐扭转思维，拭目以待吧。&lt;/p&gt;
 &lt;h3&gt;焦虑未来&lt;/h3&gt;
 &lt;h4&gt;考研&lt;/h4&gt;
@@ -71,7 +72,7 @@
 &amp;lt;/div&amp;gt;&lt;/p&gt;
 &lt;h2&gt;展望&lt;/h2&gt;
 &lt;p&gt;即便2026没有得到想要的结果，那么进入新的人生阶段（工作），也要找到自己喜爱的事。&lt;/p&gt;
-</content:encoded></item><item><title>docker 踩坑记录</title><link>https://faina.me/posts/docker_container/</link><guid isPermaLink="true">https://faina.me/posts/docker_container/</guid><pubDate>Sun, 22 Jun 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;最近为了&lt;s&gt;修改实习简历的项目展示&lt;/s&gt;将某管理系统部署出来，选择了&lt;strong&gt;容器化部署&lt;/strong&gt;的方式。&lt;/p&gt;
+</content:encoded></item><item><title>docker 踩坑记录</title><link>https://faina.dev/posts/docker_container/</link><guid isPermaLink="true">https://faina.dev/posts/docker_container/</guid><pubDate>Sun, 22 Jun 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;最近为了&lt;s&gt;修改实习简历的项目展示&lt;/s&gt;将某管理系统部署出来，选择了&lt;strong&gt;容器化部署&lt;/strong&gt;的方式。&lt;/p&gt;
 &lt;h3&gt;什么是docker ？&lt;/h3&gt;
 &lt;p&gt;可以简单理解为一种轻量化的虚拟机。它不需要像虚拟机那样完整的重新虚拟一个新的操作系统$\rightarrow$更轻量化。&lt;/p&gt;
 &lt;p&gt;docker同样具有复用性高、拓展性强等优点。&lt;/p&gt;
@@ -264,7 +265,7 @@
 &lt;p&gt;这次，当容器启动时，它会发现 &lt;code&gt;mysql_data&lt;/code&gt; 卷是空的，然后自动执行 &lt;code&gt;mysql-init/init.sql&lt;/code&gt; 脚本，将的数据库结构和数据导入到数据库中。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-</content:encoded></item><item><title>卷积神经网络</title><link>https://faina.me/posts/rnn/</link><guid isPermaLink="true">https://faina.me/posts/rnn/</guid><pubDate>Sun, 04 May 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;两个原则？&lt;/strong&gt; 平移不变性和局部性&lt;/p&gt;
+</content:encoded></item><item><title>卷积神经网络</title><link>https://faina.dev/posts/rnn/</link><guid isPermaLink="true">https://faina.dev/posts/rnn/</guid><pubDate>Sun, 04 May 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;两个原则？&lt;/strong&gt; 平移不变性和局部性&lt;/p&gt;
 &lt;h2&gt;重新考察全连接层&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -310,14 +311,15 @@ $$&lt;/li&gt;
 &lt;li&gt;核矩阵大小是超参数&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2&gt;填充&lt;/h2&gt;
-&lt;p&gt;:::note
+&lt;blockquote&gt;
+&lt;p&gt;[!note]
 对图像进行一次卷积操作后，输出的矩阵相较于输入的矩阵会变小。假设给定$(32\times 32)$的输入图像，应用$5\times 5$大小的卷积核：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;第1层得到输出大小为$28 \times 28$&lt;/li&gt;
 &lt;li&gt;第7层得到输出大小为$4\times 4$
-如果用更大的卷积核，则输出矩阵的缩小会变得更快，形状会从$n_h\times n_w$减少到$(n_h-k_h+1)\times (n_w-k_w+1)$
-:::&lt;/li&gt;
+如果用更大的卷积核，则输出矩阵的缩小会变得更快，形状会从$n_h\times n_w$减少到$(n_h-k_h+1)\times (n_w-k_w+1)$&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;为了解决这个缩小的问题，我们选择在输入周围添加额外的行/列
 &lt;img src=&quot;https://zh.d2l.ai/_images/conv-pad.svg&quot; alt=&quot;&quot; /&gt;
 填充$p_h$行和$p_w$列，输出的形状为$(n_h-k_h+p_h+1)\times (n_w-k_w+p_w+1)$
@@ -338,12 +340,13 @@ $$&lt;/li&gt;
 $$&lt;/p&gt;
 &lt;p&gt;更进一步，如果输入的高度和宽度可以被垂直和水平步幅整除，则输出形状将为&lt;/p&gt;
 &lt;p&gt;$(n_h/s_h) \times (n_w/s_w)$&lt;/p&gt;
-&lt;p&gt;:::important
+&lt;blockquote&gt;
+&lt;p&gt;[!important]
 填充和步幅是卷积层的超参数&lt;/p&gt;
 &lt;p&gt;填充在输入周围添加额外的行/列，来控制输出形状的减少量&lt;/p&gt;
-&lt;p&gt;步幅是每次滑动核矩阵时的行/列步长，可以成倍地减少输出形状
-:::&lt;/p&gt;
-</content:encoded></item><item><title>K-接邻(K Nearest Neighbor KNN)</title><link>https://faina.me/posts/knn/</link><guid isPermaLink="true">https://faina.me/posts/knn/</guid><pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;KNN算法的定义&lt;/h3&gt;
+&lt;p&gt;步幅是每次滑动核矩阵时的行/列步长，可以成倍地减少输出形状&lt;/p&gt;
+&lt;/blockquote&gt;
+</content:encoded></item><item><title>K-接邻(K Nearest Neighbor KNN)</title><link>https://faina.dev/posts/knn/</link><guid isPermaLink="true">https://faina.dev/posts/knn/</guid><pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;KNN算法的定义&lt;/h3&gt;
 &lt;p&gt;如果一个样本在特征空间中的&lt;strong&gt;K个最相似（即特征空间中最邻近）的样本中的大多数属于某一个类别&lt;/strong&gt;，则该样本也属于这个类别
 通俗来说：通过你的“邻居”来判断你属于哪个类别&lt;/p&gt;
 &lt;blockquote&gt;
@@ -451,7 +454,7 @@ k值过大：容易受到样本均衡的问题
     accuracy = getAccuracy(iris_test_y, pre_labels)
     print(&apos;Accuracy: &apos; + repr(accuracy) + &apos;%&apos;)
 &lt;/code&gt;&lt;/pre&gt;
-</content:encoded></item><item><title>基于抽样检测与成本优化的产品生产过程决策研究</title><link>https://faina.me/posts/mathematical_modeling_paper/</link><guid isPermaLink="true">https://faina.me/posts/mathematical_modeling_paper/</guid><pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&amp;lt;div style=&quot;width: 100%; height: 800px; border: 1px solid #ccc; border-radius: 8px; overflow: hidden;&quot;&amp;gt;
+</content:encoded></item><item><title>基于抽样检测与成本优化的产品生产过程决策研究</title><link>https://faina.dev/posts/mathematical_modeling_paper/</link><guid isPermaLink="true">https://faina.dev/posts/mathematical_modeling_paper/</guid><pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&amp;lt;div style=&quot;width: 100%; height: 800px; border: 1px solid #ccc; border-radius: 8px; overflow: hidden;&quot;&amp;gt;
 &amp;lt;iframe
 src=&quot;/paper.pdf&quot;
 width=&quot;100%&quot;
@@ -466,68 +469,7 @@ title=&quot;数学建模论文&quot;&amp;gt;
 📄 在新窗口中打开PDF
 &amp;lt;/a&amp;gt;
 &amp;lt;/p&amp;gt;&lt;/p&gt;
-</content:encoded></item><item><title>窗口-JFrame</title><link>https://faina.me/posts/java_jframe/</link><guid isPermaLink="true">https://faina.me/posts/java_jframe/</guid><pubDate>Thu, 06 Jun 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;GUI的全称是Graphical User Interface， 即&lt;strong&gt;图形用户界面&lt;/strong&gt;
-Swing是Java语言开发图形化界面的一个工具包，以抽象窗口工具（AWT）为基础。所有的 &lt;code&gt;Swing&lt;/code&gt;组件都保存在 &lt;code&gt;javax.swing&lt;/code&gt;包中&lt;/p&gt;
-&lt;h2&gt;Swing 顶级容器&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;顶层容器&lt;/strong&gt;意味着是一个独立的窗口，&lt;strong&gt;可以包含其他Swing组件&lt;/strong&gt;，比如按钮、标签、文本框等。
-Swing提供了主要的三个顶级容器分别为：&lt;code&gt;Jwindow&lt;/code&gt;、&lt;code&gt;JFrame&lt;/code&gt;和 &lt;code&gt;JDialog&lt;/code&gt;&lt;/p&gt;
-&lt;h3&gt;JFrame&lt;/h3&gt;
-&lt;pre&gt;&lt;code&gt;import javax.swing.JFrame;  //导入swing.JFrame包
-public class Main {  
-    public static void main(String[] args){  
-        JFrame frame = new JFrame(&quot;Swing example&quot;); //构造方法，参数为窗口的标题
-        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);  // 当关闭窗口时，退出整个程序
-        frame.setSize(400,300);  //设置窗口的大小，前参数为宽度，后参数为高度
-        frame.setVisible(true);  //设置窗口是否可见，true可见，false不可见
-    }  
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;blockquote&gt;
-&lt;p&gt;窗口标题也可使用 &lt;code&gt;setTitle()&lt;/code&gt;方法进行设置&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;以下是一些其他常用方法：&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;方法&lt;/th&gt;
-&lt;th&gt;类型&lt;/th&gt;
-&lt;th&gt;功能描述&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;code&gt;add(Component comp)&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;普通方法&lt;/td&gt;
-&lt;td&gt;向内容窗格添加组件&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;code&gt;setLayout(LayoutManager manager)&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;普通方法&lt;/td&gt;
-&lt;td&gt;设置内容窗格的布局管理器&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;code&gt;JFrame.DISPOSE_ON_CLOSE&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;普通方法&lt;/td&gt;
-&lt;td&gt;关闭窗口时释放窗口资源，但不退出程序&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2&gt;自定义窗口&lt;/h2&gt;
-&lt;p&gt;使用自定义窗口，可以将 &lt;code&gt;main()&lt;/code&gt;方法中对窗口的设置分离出来成为一个类，从而简化 &lt;code&gt;main()&lt;/code&gt;方法中的代码长度，易于后期代码优化&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;import javax.swing.JFrame;  
-  
-public class MyFrame extends JFrame{  
-    public MyFrame(String title){  
-        super(title);  //调用父类的带参数构造器，即调用JFrame的构造方法设置title  
-        JPanel root = new JPanel();  
-        this.setContentPane(root);  
-        JButton button = new JButton(&quot;按钮&quot;);  
-        root.add(button);  
-    }  
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;我们创建一个名为 &lt;code&gt;MyFrame&lt;/code&gt;的类来继承 &lt;code&gt;JFrame&lt;/code&gt;，在 &lt;code&gt;MyFrame&lt;/code&gt;中实现对窗口的设置&lt;/p&gt;
-</content:encoded></item><item><title>事件处理机制</title><link>https://faina.me/posts/java_event/</link><guid isPermaLink="true">https://faina.me/posts/java_event/</guid><pubDate>Thu, 06 Jun 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;GUI事件处理机制&lt;/h2&gt;
+</content:encoded></item><item><title>事件处理机制</title><link>https://faina.dev/posts/java_event/</link><guid isPermaLink="true">https://faina.dev/posts/java_event/</guid><pubDate>Thu, 06 Jun 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;GUI事件处理机制&lt;/h2&gt;
 &lt;p&gt;定义：当在某个组件上发生某些操作的时候，会自动触发某一段代码的执行
 在GUI事件处理机制中涉及到四个重要的概念：&lt;/p&gt;
 &lt;ul&gt;
@@ -612,7 +554,7 @@ Lambda表达式的基本语法格式如下：&lt;/p&gt;
 &lt;p&gt;因此，上述匿名内部类对自定义事件监听器的写法可以进一步简写为：&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;button.addActionListener(e -&amp;gt; System.out.println(&quot;按钮被点击了&quot;));
 &lt;/code&gt;&lt;/pre&gt;
-</content:encoded></item><item><title>内部类</title><link>https://faina.me/posts/java_innerclass/</link><guid isPermaLink="true">https://faina.me/posts/java_innerclass/</guid><pubDate>Thu, 06 Jun 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;有一种类是被定义在某一个类中的（类中类）称为&lt;strong&gt;内部类&lt;/strong&gt;&lt;/p&gt;
+</content:encoded></item><item><title>内部类</title><link>https://faina.dev/posts/java_innerclass/</link><guid isPermaLink="true">https://faina.dev/posts/java_innerclass/</guid><pubDate>Thu, 06 Jun 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;有一种类是被定义在某一个类中的（类中类）称为&lt;strong&gt;内部类&lt;/strong&gt;&lt;/p&gt;
 &lt;h2&gt;&lt;strong&gt;Inner Class&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;如果一个类定义在某一个类的内部，这个类就是 &lt;code&gt;Inner Class&lt;/code&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;class Outer{
@@ -666,9 +608,10 @@ class Outer {
     }
 }
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;:::note
-&lt;strong&gt;在 &lt;code&gt;Main()&lt;/code&gt;中 &lt;code&gt;outer.asyncHello()&lt;/code&gt;的这里调用的是 &lt;code&gt;Outer&lt;/code&gt;类的实例方法 &lt;code&gt;asyncHello()&lt;/code&gt;，而不是直接调用匿名内部类的方法&lt;/strong&gt;
-:::&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!NOTE]
+&lt;strong&gt;在 &lt;code&gt;Main()&lt;/code&gt;中 &lt;code&gt;outer.asyncHello()&lt;/code&gt;的这里调用的是 &lt;code&gt;Outer&lt;/code&gt;类的实例方法 &lt;code&gt;asyncHello()&lt;/code&gt;，而不是直接调用匿名内部类的方法&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;code&gt;asyncHello()&lt;/code&gt;内部的内容：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;在 &lt;code&gt;asyncHello()&lt;/code&gt;方法内部，创建了一个匿名内部类，这个类实现了 &lt;code&gt;Runnable&lt;/code&gt;接口，并重写了其 &lt;code&gt;run&lt;/code&gt;方法。&lt;/li&gt;
@@ -681,7 +624,68 @@ class Outer {
 &lt;li&gt;&lt;strong&gt;不能有构造函数&lt;/strong&gt;：匿名内部类不能定义构造函数，因为它们没有类名。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;不能被重用&lt;/strong&gt;：匿名内部类只能在声明时使用，不能在其他地方实例化。&lt;/li&gt;
 &lt;/ol&gt;
-</content:encoded></item><item><title>抽象类和接口</title><link>https://faina.me/posts/java_abstract/</link><guid isPermaLink="true">https://faina.me/posts/java_abstract/</guid><pubDate>Tue, 04 Jun 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;首先看一个案例，当需要做一个绘制图形的类，存在以下继承结构：&lt;/p&gt;
+</content:encoded></item><item><title>窗口-JFrame</title><link>https://faina.dev/posts/java_jframe/</link><guid isPermaLink="true">https://faina.dev/posts/java_jframe/</guid><pubDate>Thu, 06 Jun 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;GUI的全称是Graphical User Interface， 即&lt;strong&gt;图形用户界面&lt;/strong&gt;
+Swing是Java语言开发图形化界面的一个工具包，以抽象窗口工具（AWT）为基础。所有的 &lt;code&gt;Swing&lt;/code&gt;组件都保存在 &lt;code&gt;javax.swing&lt;/code&gt;包中&lt;/p&gt;
+&lt;h2&gt;Swing 顶级容器&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;顶层容器&lt;/strong&gt;意味着是一个独立的窗口，&lt;strong&gt;可以包含其他Swing组件&lt;/strong&gt;，比如按钮、标签、文本框等。
+Swing提供了主要的三个顶级容器分别为：&lt;code&gt;Jwindow&lt;/code&gt;、&lt;code&gt;JFrame&lt;/code&gt;和 &lt;code&gt;JDialog&lt;/code&gt;&lt;/p&gt;
+&lt;h3&gt;JFrame&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;import javax.swing.JFrame;  //导入swing.JFrame包
+public class Main {  
+    public static void main(String[] args){  
+        JFrame frame = new JFrame(&quot;Swing example&quot;); //构造方法，参数为窗口的标题
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);  // 当关闭窗口时，退出整个程序
+        frame.setSize(400,300);  //设置窗口的大小，前参数为宽度，后参数为高度
+        frame.setVisible(true);  //设置窗口是否可见，true可见，false不可见
+    }  
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;blockquote&gt;
+&lt;p&gt;窗口标题也可使用 &lt;code&gt;setTitle()&lt;/code&gt;方法进行设置&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;以下是一些其他常用方法：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;方法&lt;/th&gt;
+&lt;th&gt;类型&lt;/th&gt;
+&lt;th&gt;功能描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;add(Component comp)&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;普通方法&lt;/td&gt;
+&lt;td&gt;向内容窗格添加组件&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;setLayout(LayoutManager manager)&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;普通方法&lt;/td&gt;
+&lt;td&gt;设置内容窗格的布局管理器&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;JFrame.DISPOSE_ON_CLOSE&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;普通方法&lt;/td&gt;
+&lt;td&gt;关闭窗口时释放窗口资源，但不退出程序&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;自定义窗口&lt;/h2&gt;
+&lt;p&gt;使用自定义窗口，可以将 &lt;code&gt;main()&lt;/code&gt;方法中对窗口的设置分离出来成为一个类，从而简化 &lt;code&gt;main()&lt;/code&gt;方法中的代码长度，易于后期代码优化&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;import javax.swing.JFrame;  
+  
+public class MyFrame extends JFrame{  
+    public MyFrame(String title){  
+        super(title);  //调用父类的带参数构造器，即调用JFrame的构造方法设置title  
+        JPanel root = new JPanel();  
+        this.setContentPane(root);  
+        JButton button = new JButton(&quot;按钮&quot;);  
+        root.add(button);  
+    }  
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;我们创建一个名为 &lt;code&gt;MyFrame&lt;/code&gt;的类来继承 &lt;code&gt;JFrame&lt;/code&gt;，在 &lt;code&gt;MyFrame&lt;/code&gt;中实现对窗口的设置&lt;/p&gt;
+</content:encoded></item><item><title>抽象类和接口</title><link>https://faina.dev/posts/java_abstract/</link><guid isPermaLink="true">https://faina.dev/posts/java_abstract/</guid><pubDate>Tue, 04 Jun 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;首先看一个案例，当需要做一个绘制图形的类，存在以下继承结构：&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;classDiagram
     direction TB
     class Shape {
@@ -720,18 +724,20 @@ class Outer {
 &lt;p&gt;抽象方法是使用 &lt;code&gt;abstract&lt;/code&gt;关键字修饰的成员方法，抽象方法在定义时不需要实现方法体，抽象方法的定义格式如下：&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;abstract 返回值类型 方法名称（参数）；
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;:::warning&lt;/p&gt;
-&lt;p&gt;使用 &lt;code&gt;abstract&lt;/code&gt;关键字修饰的抽象方法不能使用 &lt;code&gt;private&lt;/code&gt;修饰，因为抽象方法必须被子类实现，如果使用 &lt;code&gt;private&lt;/code&gt;声明，则子类无法实现该方法&lt;/p&gt;
-&lt;p&gt;:::&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!WARNING]
+使用 &lt;code&gt;abstract&lt;/code&gt;关键字修饰的抽象方法不能使用 &lt;code&gt;private&lt;/code&gt;修饰，因为抽象方法必须被子类实现，如果使用 &lt;code&gt;private&lt;/code&gt;声明，则子类无法实现该方法&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;hr /&gt;
 &lt;p&gt;当一个类包含了抽象方法，则该类必须是抽象类，抽象类与抽象函数一样必须使用 &lt;code&gt;abstract&lt;/code&gt;关键字进行修饰。抽象类的定义格式如下：&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;public abstract class 抽象类名称{
       public abstract 返回值类型 方法名称（参数）；
 }
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;:::warning&lt;/p&gt;
-&lt;p&gt;若一个类没有声明为抽象类但包含抽象方法会无法编译&lt;/p&gt;
-&lt;p&gt;:::&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!WARNING]
+若一个类没有声明为抽象类但包含抽象方法会无法编译&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;抽象类的定义规则如下：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;包含抽象方法的类必须是抽象类&lt;/li&gt;
@@ -745,14 +751,15 @@ class Outer {
      Shape c = s;   //这是可行的
 }
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;:::important&lt;/p&gt;
-&lt;p&gt;无法实例化的抽象类有什么用？
+&lt;blockquote&gt;
+&lt;p&gt;[!CAUTION]重要
+无法实例化的抽象类有什么用？
 因为抽象类本身被设计成只能用于被继承，因此，抽象类可以强迫子类实现其定义的抽象方法，否则编译会报错。因此，抽象方法实际上相当于定义了“规范”&lt;/p&gt;
-&lt;p&gt;:::&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h2&gt;&lt;strong&gt;接口&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;如果一个抽象类中所有的方法都是抽象类，则该类可定义为&lt;strong&gt;接口&lt;/strong&gt;。接口是Java中最重要的概念之一&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;类与类是单继承关系&lt;/strong&gt;，即一个子类只能有一个直接父类；但&lt;strong&gt;类与接口是多实现关系&lt;/strong&gt;，即一个类可以实现多个接口；而&lt;strong&gt;接口与接口是多继承关系&lt;/strong&gt;，即一个接口可以同时继承多个接口&lt;/p&gt;
-</content:encoded></item><item><title>多态</title><link>https://faina.me/posts/java_polymorphism/</link><guid isPermaLink="true">https://faina.me/posts/java_polymorphism/</guid><pubDate>Fri, 24 May 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;多态变量&lt;/h2&gt;
+</content:encoded></item><item><title>多态</title><link>https://faina.dev/posts/java_polymorphism/</link><guid isPermaLink="true">https://faina.dev/posts/java_polymorphism/</guid><pubDate>Fri, 24 May 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;多态变量&lt;/h2&gt;
 &lt;p&gt;Java的对象变量是多态的，它们能保存不止一种类型的对象，它们可以保存的是声明类型的对象，或声明类型的子类的对象例：当父类为 &lt;code&gt;item&lt;/code&gt;，子类为 &lt;code&gt;CD&lt;/code&gt;和 &lt;code&gt;DVD&lt;/code&gt;时&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;public static void main(String args[]){
      item a = new item();
@@ -763,9 +770,10 @@ class Outer {
 &lt;p&gt;每一个Java的对象变量，都具有两个类型：一个是声明类型，一个是动态类型。有时候两者是一致的，有时候又不一样这就是&lt;strong&gt;变量的多态&lt;/strong&gt;（在运行过程中，它所管理的对象类型是会变化的）&lt;/p&gt;
 &lt;h2&gt;造型(cast)&lt;/h2&gt;
 &lt;p&gt;造型：把一个类型的&lt;strong&gt;对象&lt;/strong&gt;，赋给另一个类型的&lt;strong&gt;变量&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;:::tip
-对象的赋值并不是将一个对象赋值给另一个对象（在C++中可以），而是让这两个对象的管理者去管理同一个对象
-:::&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!NOTE]
+对象的赋值并不是将一个对象赋值给另一个对象（在C++中可以），而是让这两个对象的管理者去管理同一个对象&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;当给一个对象变量管理着与它声明（静态）类型不符的对象时，就发生了造型&lt;/p&gt;
 &lt;h3&gt;向上造型&lt;/h3&gt;
 &lt;p&gt;当把子类的对象赋给父类的变量的时候，就发生了&lt;strong&gt;向上造型&lt;/strong&gt;
@@ -791,7 +799,7 @@ class Outer {
 &lt;li&gt;方法的重载&lt;/li&gt;
 &lt;li&gt;对象的多态性（方法重写）&lt;/li&gt;
 &lt;/ul&gt;
-</content:encoded></item><item><title>继承</title><link>https://faina.me/posts/java_extends/</link><guid isPermaLink="true">https://faina.me/posts/java_extends/</guid><pubDate>Fri, 17 May 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;继承的概念&lt;/h2&gt;
+</content:encoded></item><item><title>继承</title><link>https://faina.dev/posts/java_extends/</link><guid isPermaLink="true">https://faina.dev/posts/java_extends/</guid><pubDate>Fri, 17 May 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;继承的概念&lt;/h2&gt;
 &lt;p&gt;当我们发现某两个类中的非常相似，并且可以用相似的类去抽象构造，此时我们可以使用&lt;strong&gt;继承&lt;/strong&gt;来减少书写重复代码，从而提高代码编写的效率。同时，降低代码相似度，从而易于后续的代码维护。&lt;/p&gt;
 &lt;p&gt;在程序中，继承描述的是事物之间的所属关系，通过继承可以使多种事物之间形成一种关系体系。例如：我们想要创建一个存放东西的数据库，里面所有的东西都可以称为一种 &lt;code&gt;item&lt;/code&gt;，而具体物品有两种为 &lt;code&gt;CD&lt;/code&gt;和 &lt;code&gt;DVD&lt;/code&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;classDiagram
@@ -821,9 +829,10 @@ class Outer {
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;我们将 &lt;code&gt;CD&lt;/code&gt;这样的类称为&lt;strong&gt;子类/扩展类&lt;/strong&gt;，而 &lt;code&gt;Item&lt;/code&gt;称为&lt;strong&gt;父类/超类&lt;/strong&gt;，子类和父类的关系是一种相对的概念，一个类既可以是某个类的子类，也可以是另一个类的父类。&lt;/p&gt;
 &lt;p&gt;在Java中，类只支持&lt;strong&gt;单继承&lt;/strong&gt;，不支持&lt;strong&gt;多继承&lt;/strong&gt;，即一个类只能有一个直接父类，一个类不能同时继承两个类，并且&lt;strong&gt;Java中所有的类都默认继承 &lt;code&gt;Object&lt;/code&gt;类&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;:::caution[注意]&lt;/p&gt;
-&lt;p&gt;子类自动获得了父类的所有字段，严禁定义与父类重名的字段！&lt;/p&gt;
-&lt;p&gt;:::&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!DANGER]注意
+子类自动获得了父类的所有字段，严禁定义与父类重名的字段！&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h2&gt;&lt;code&gt;protected&lt;/code&gt;访问属性&lt;/h2&gt;
 &lt;p&gt;当父类中的某个变量的访问属性为 &lt;code&gt;private&lt;/code&gt;时，子类可以继承获得该变量，但是不能访问它，使用 &lt;code&gt;protected&lt;/code&gt;访问属性，可以使子类获得访问父类中变量的权限。但是这样不好，如果子类和父类&lt;strong&gt;不在同一个包&lt;/strong&gt;中，也无法访问到
 解决办法：
@@ -863,9 +872,10 @@ class Outer {
 如果子类构造器中==没有显式调用== &lt;code&gt;super()&lt;/code&gt; 或 &lt;code&gt;super(&amp;lt;参数&amp;gt;)&lt;/code&gt;，编译器会在子类构造器的第一行&lt;strong&gt;隐式地调用&lt;/strong&gt;父类的无参构造器，即 &lt;code&gt;super()&lt;/code&gt;
 通过 &lt;code&gt;super()&lt;/code&gt;调用父类构造方法的代码必须位于子类构造方法的第一行，并且只能出现一次&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;:::tip
-即在子类的构造函数中，第一行写了 &lt;code&gt;super()&lt;/code&gt;和不写的效果是一样的。但是如果父类没有无参构造器，而子类没有显式调用带参数的父类构造器，则会编译错误。
-:::&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!TIP]tip
+即在子类的构造函数中，第一行写了 &lt;code&gt;super()&lt;/code&gt;和不写的效果是一样的。但是如果父类没有无参构造器，而子类没有显式调用带参数的父类构造器，则会编译错误。&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h3&gt;访问父类成员&lt;/h3&gt;
 &lt;p&gt;&lt;code&gt;super&lt;/code&gt;关键字也用于访问父类的成员（字段和方法），特别是在子类中有与父类同名的成员时。&lt;/p&gt;
 &lt;h4&gt;访问父类的字段和方法&lt;/h4&gt;
@@ -931,9 +941,10 @@ public class Test {
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;:::important
-&lt;code&gt;this&lt;/code&gt;和 &lt;code&gt;super()&lt;/code&gt;不可以同时出现，因为在调用构造方法时都要求必须放在构造方法的首行
-:::&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!WARNING]
+&lt;code&gt;this&lt;/code&gt;和 &lt;code&gt;super()&lt;/code&gt;不可以同时出现，因为在调用构造方法时都要求必须放在构造方法的首行&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h2&gt;子类和子类型&lt;/h2&gt;
 &lt;p&gt;在面向对象编程中，类是对对象的抽象描述，它定义了对象的属性和行为。子类是从父类继承而来的，它扩展了父类的属性和行为，形成了一个新的类型，这个新类型被称为子类型。所以&lt;strong&gt;类定义了类型，子类定义了子类型&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;子类的对象可以被当作父类的对象来使用，具体可以表现为：&lt;/p&gt;
@@ -942,7 +953,7 @@ public class Test {
 &lt;li&gt;传递给需要父类变量的函数&lt;/li&gt;
 &lt;li&gt;放进存放父类对象的容器里&lt;/li&gt;
 &lt;/ul&gt;
-</content:encoded></item><item><title>函数的最佳平方逼近</title><link>https://faina.me/posts/numerical_leastsquaresapproximation/</link><guid isPermaLink="true">https://faina.me/posts/numerical_leastsquaresapproximation/</guid><pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;研究在区间$[a,b]$上一般的最佳平方逼近问题，对$f(x)\in C[a,b]$及$C[a,b]$中的一个子集$\varphi=span{\varphi_0(x),\varphi_1(x),\cdots,\varphi_n(x)}$，若存在$S^*(x)\in\varphi$，使&lt;/p&gt;
+</content:encoded></item><item><title>函数的最佳平方逼近</title><link>https://faina.dev/posts/numerical_leastsquaresapproximation/</link><guid isPermaLink="true">https://faina.dev/posts/numerical_leastsquaresapproximation/</guid><pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;研究在区间$[a,b]$上一般的最佳平方逼近问题，对$f(x)\in C[a,b]$及$C[a,b]$中的一个子集$\varphi=span{\varphi_0(x),\varphi_1(x),\cdots,\varphi_n(x)}$，若存在$S^*(x)\in\varphi$，使&lt;/p&gt;
 &lt;p&gt;$$
 \begin{equation}
 \begin{aligned}
@@ -988,12 +999,13 @@ $$&lt;/p&gt;
 &lt;p&gt;$$
 S^&lt;em&gt;(x)=a_0^&lt;/em&gt;\varphi_0(x)+\cdots+a_n^*\varphi_n(x)
 $$&lt;/p&gt;
-</content:encoded></item><item><title>函数逼近(Approximation Theory)</title><link>https://faina.me/posts/numerical_approximationtheory/</link><guid isPermaLink="true">https://faina.me/posts/numerical_approximationtheory/</guid><pubDate>Wed, 17 Apr 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;魏尔斯特拉斯(Weierstrass)逼近定理&lt;/h3&gt;
+</content:encoded></item><item><title>函数逼近(Approximation Theory)</title><link>https://faina.dev/posts/numerical_approximationtheory/</link><guid isPermaLink="true">https://faina.dev/posts/numerical_approximationtheory/</guid><pubDate>Wed, 17 Apr 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;魏尔斯特拉斯(Weierstrass)逼近定理&lt;/h3&gt;
 &lt;p&gt;闭区间上的连续函数可用&lt;strong&gt;多项式&lt;/strong&gt;一致逼近&lt;/p&gt;
 &lt;p&gt;即$\forall    \varepsilon &amp;gt; 0$，存在多项式$P_m(x)$，使得$|f(x)-P_m(x)|&amp;lt;\varepsilon$对一切$x\in[a,b]$成立。&lt;/p&gt;
-&lt;p&gt;:::important&lt;/p&gt;
-&lt;p&gt;一致逼近：$\left|f(x)-y(x)\right|&lt;em&gt;\infty=\max&lt;/em&gt;{a\leq x\leq b}\left|f(x)-y(x)\right|$
-:::&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!important]
+一致逼近：$\left|f(x)-y(x)\right|&lt;em&gt;\infty=\max&lt;/em&gt;{a\leq x\leq b}\left|f(x)-y(x)\right|$&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h3&gt;范数与赋范线性空间&lt;/h3&gt;
 &lt;h4&gt;线性空间也称为向量空间&lt;/h4&gt;
 &lt;p&gt;&lt;strong&gt;空间&lt;/strong&gt;：表示有很多向量，有一整个空间的向量，但并不是任意向量的组合都能被称为空间。&lt;strong&gt;空间必须满足一定的规则，必须能够进行加法和数乘运算，必须能够进行线性组合&lt;/strong&gt;&lt;/p&gt;
@@ -1083,9 +1095,10 @@ $$&lt;/p&gt;
 &lt;li&gt;$(f_1+f_2,g)=(f_1,g)+(f_2,g)$           线性性&lt;/li&gt;
 &lt;li&gt;$(f,f)\ge0$，当且仅当$f=0$时$(f,f)=0$               正定性&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;:::tip&lt;/p&gt;
-&lt;p&gt;用定积分可以证明满足上述四条公理&lt;/p&gt;
-&lt;p&gt;:::&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!tip]
+用定积分可以证明满足上述四条公理&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;hr /&gt;
 &lt;p&gt;设$\vec{f},\vec{g}$是$R^n$中的向量
 则 $\vec{f}=(f_1,f_2,...,f_n)^T,\vec{g}=(g_1,g_2,...,g_n)^T$ 其内积&lt;/p&gt;
@@ -1131,7 +1144,7 @@ $$&lt;/p&gt;
 &lt;p&gt;$$
 G_{n-1}=G(\varphi_0, \varphi_1,\cdots,\varphi_{n-1})=\begin{vmatrix}(\varphi_0,\varphi_0)&amp;amp;(\varphi_0,\varphi_1)&amp;amp;\cdots&amp;amp;(\varphi_0,\varphi_{n-1})\(\varphi_1,\varphi_0)&amp;amp;(\varphi_1,\varphi_1)&amp;amp;\cdots&amp;amp;(\varphi_1,\varphi_{n-1})\\cdots\cdots&amp;amp;&amp;amp;\cdots\(\varphi_{n-1},\varphi_0)&amp;amp;(\varphi_{n-1},\varphi_1)&amp;amp;\cdots&amp;amp;(\varphi_{n-1},\varphi_{n-1})\end{vmatrix}
 $$&lt;/p&gt;
-</content:encoded></item><item><title>Expressive Code Example</title><link>https://faina.me/posts/expressive-code/</link><guid isPermaLink="true">https://faina.me/posts/expressive-code/</guid><description>How code blocks look in Markdown using Expressive Code.</description><pubDate>Wed, 10 Apr 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Here, we&apos;ll explore how code blocks look using &lt;a href=&quot;https://expressive-code.com/&quot;&gt;Expressive Code&lt;/a&gt;. The provided examples are based on the official documentation, which you can refer to for further details.&lt;/p&gt;
+</content:encoded></item><item><title>Expressive Code Example</title><link>https://faina.dev/posts/expressive-code/</link><guid isPermaLink="true">https://faina.dev/posts/expressive-code/</guid><description>How code blocks look in Markdown using Expressive Code.</description><pubDate>Wed, 10 Apr 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Here, we&apos;ll explore how code blocks look using &lt;a href=&quot;https://expressive-code.com/&quot;&gt;Expressive Code&lt;/a&gt;. The provided examples are based on the official documentation, which you can refer to for further details.&lt;/p&gt;
 &lt;h2&gt;Expressive Code&lt;/h2&gt;
 &lt;h3&gt;Syntax Highlighting&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;https://expressive-code.com/key-features/syntax-highlighting/&quot;&gt;Syntax Highlighting&lt;/a&gt;&lt;/p&gt;
@@ -1340,7 +1353,7 @@ console.log(&apos;Sorry, do you know what line I am on?&apos;)
 &lt;pre&gt;&lt;code&gt;console.log(&apos;Greetings from line 5!&apos;)
 console.log(&apos;I am on line 6&apos;)
 &lt;/code&gt;&lt;/pre&gt;
-</content:encoded></item><item><title>静态字段和静态变量（类变量）</title><link>https://faina.me/posts/java_static/</link><guid isPermaLink="true">https://faina.me/posts/java_static/</guid><pubDate>Sun, 07 Apr 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;&lt;strong&gt;静态字段&lt;/strong&gt;&lt;/h3&gt;
+</content:encoded></item><item><title>静态字段和静态变量（类变量）</title><link>https://faina.dev/posts/java_static/</link><guid isPermaLink="true">https://faina.dev/posts/java_static/</guid><pubDate>Sun, 07 Apr 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;&lt;strong&gt;静态字段&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;在 &lt;code&gt;class&lt;/code&gt;中定义的字段，称为&lt;strong&gt;实例字段&lt;/strong&gt;，每个实例（对象）都有独立的字段，各个实例的同名字段互不影响。&lt;/p&gt;
 &lt;p&gt;而使用 &lt;code&gt;static&lt;/code&gt;修饰的字段，称为&lt;strong&gt;静态字段&lt;/strong&gt;：&lt;code&gt;static field&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;实例字段在每个实例中都独立存在，但静态字段所有实例都会共享该字段。如下：&lt;/p&gt;
@@ -1399,9 +1412,10 @@ console.log(&apos;I am on line 6&apos;)
 &lt;p&gt;推荐使用 &lt;code&gt;类名.静态字段&lt;/code&gt;来访问静态对象&lt;/p&gt;
 &lt;h3&gt;&lt;strong&gt;静态方法&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;调用实例方法必须通过一个实例变量，而调用静态方法则不需要实例变量，通过类名就可以调用。&lt;/p&gt;
-&lt;p&gt;:::tip
-类似其它编程语言的函数。
-:::&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!NOTE]
+类似其它编程语言的函数。&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;因为静态方法属于类而不属于对象，因此，静态方法内部，无法访问 &lt;code&gt;this&lt;/code&gt;变量，也无法访问实例字段，只能访问静态字段。&lt;/p&gt;
 &lt;p&gt;通常情况下，通过实例变量访问静态字段和静态方法，会得到一个编译警告。&lt;/p&gt;
 &lt;p&gt;静态方法经常用于工具类。例如：&lt;/p&gt;
@@ -1410,7 +1424,7 @@ console.log(&apos;I am on line 6&apos;)
 &lt;li&gt;&lt;code&gt;Math.random()&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;静态方法也经常用于辅助方法。&lt;strong&gt;注意到Java程序的入口 &lt;code&gt;main()&lt;/code&gt;也是静态方法。&lt;/strong&gt;&lt;/p&gt;
-</content:encoded></item><item><title>对象和类</title><link>https://faina.me/posts/java_object/</link><guid isPermaLink="true">https://faina.me/posts/java_object/</guid><pubDate>Sat, 23 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;对象&lt;/strong&gt;是实体，需要被创建 &lt;code&gt;new&lt;/code&gt;，可以为我们做事情。&lt;strong&gt;对象 = 属性 + 服务&lt;/strong&gt;&lt;/p&gt;
+</content:encoded></item><item><title>对象和类</title><link>https://faina.dev/posts/java_object/</link><guid isPermaLink="true">https://faina.dev/posts/java_object/</guid><pubDate>Sat, 23 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;对象&lt;/strong&gt;是实体，需要被创建 &lt;code&gt;new&lt;/code&gt;，可以为我们做事情。&lt;strong&gt;对象 = 属性 + 服务&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;表达东西或者事件&lt;/li&gt;
 &lt;li&gt;运行时响应消息（提供服务）&lt;/li&gt;
@@ -1476,9 +1490,10 @@ console.log(&apos;I am on line 6&apos;)
 &lt;ul&gt;
 &lt;li&gt;在函数中可以直接写成员变量的名字来访问成员变量&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;:::tip
-在Java中，类中的成员函数被称为（类）方法。
-:::&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!NOTE]
+在Java中，类中的成员函数被称为（类）方法。&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;函数是通过对象来调用的&lt;/p&gt;
@@ -1515,9 +1530,10 @@ console.log(&apos;I am on line 6&apos;)
 &lt;ul&gt;
 &lt;li&gt;变量成员在定义的地方就可以给出初始值，没有给出初始值的成员变量在对象创建的时候会自动获得$0$值&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;:::tip
-对象变量的$0$值表示没有管理任何对象，也可以主动给 &lt;code&gt;null&lt;/code&gt;值
-:::&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!NOTE]
+对象变量的$0$值表示没有管理任何对象，也可以主动给 &lt;code&gt;null&lt;/code&gt;值&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;定义初始化可以调用函数，也可以使用已经定义的成员变量&lt;/li&gt;
 &lt;/ul&gt;
@@ -1537,9 +1553,10 @@ console.log(&apos;I am on line 6&apos;)
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h3&gt;&lt;strong&gt;构造函数&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;如果有一个成员函数的名字和类的名字完全相同，则在创建这个类的每一个对象的时候会自动调用这个函数$\rightarrow$&lt;strong&gt;构造函数&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;:::warning
-这个函数不能有返回类型
-:::&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!WARNING]
+这个函数不能有返回类型&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h3&gt;&lt;strong&gt;函数重载&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;一个类可以有多个构造函数，只要它们的参数表不同&lt;/li&gt;
@@ -1579,10 +1596,11 @@ console.log(&apos;I am on line 6&apos;)
 &lt;li&gt;任何人指的是在任何类的函数或定义初始化中可以使用&lt;/li&gt;
 &lt;li&gt;使用指的是调用、访问或定义变量&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;:::important
-&lt;code&gt;public&lt;/code&gt;修饰的类，必须定义在与自己同名的单独 &lt;code&gt;.java&lt;/code&gt;文件中，否则只能被在同一个&lt;a href=&quot;/zh/posts/Java%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/3.md&quot;&gt;包&lt;/a&gt;中的代码访问。该 &lt;code&gt;.java&lt;/code&gt;文件称为一个&lt;strong&gt;编译单元&lt;/strong&gt;，在一个编译单元中，可以存在多个类，但只有一个类可以用 &lt;code&gt;public&lt;/code&gt;修饰
-:::&lt;/p&gt;
-</content:encoded></item><item><title>包</title><link>https://faina.me/posts/java_package/</link><guid isPermaLink="true">https://faina.me/posts/java_package/</guid><pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;&lt;strong&gt;包(package)&lt;/strong&gt;&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!DANGER]
+&lt;code&gt;public&lt;/code&gt;修饰的类，必须定义在与自己同名的单独 &lt;code&gt;.java&lt;/code&gt;文件中，否则只能被在同一个&lt;a href=&quot;/posts/java_package/&quot;&gt;包&lt;/a&gt;中的代码访问。该 &lt;code&gt;.java&lt;/code&gt;文件称为一个&lt;strong&gt;编译单元&lt;/strong&gt;，在一个编译单元中，可以存在多个类，但只有一个类可以用 &lt;code&gt;public&lt;/code&gt;修饰&lt;/p&gt;
+&lt;/blockquote&gt;
+</content:encoded></item><item><title>包</title><link>https://faina.dev/posts/java_package/</link><guid isPermaLink="true">https://faina.dev/posts/java_package/</guid><pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;&lt;strong&gt;包(package)&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;包&lt;/strong&gt;：主要为了解决命名冲突的问题，包是一种&lt;strong&gt;名字空间&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;当有以下文件结构：&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;clock----------project根目录   
@@ -1605,9 +1623,10 @@ public class Clock{
     ...
 }
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;:::info
-以上代码在 &lt;code&gt;Clock.java&lt;/code&gt;中
-:::&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!TIP]
+以上代码在 &lt;code&gt;Clock.java&lt;/code&gt;中&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;同时也可这么引入：&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;package clock;   
 
@@ -1633,7 +1652,58 @@ public class Clock{
 }
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;&lt;strong&gt;但一般不建议这么做，因为在导入多个包后，很难看出该类来自哪个包，也容易导致重名冲突问题。&lt;/strong&gt;&lt;/p&gt;
-</content:encoded></item><item><title>牛顿插值</title><link>https://faina.me/posts/numerical_newton/</link><guid isPermaLink="true">https://faina.me/posts/numerical_newton/</guid><pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;问题&lt;/strong&gt;&lt;/p&gt;
+</content:encoded></item><item><title>拉格朗日插值多项式</title><link>https://faina.dev/posts/numerical_lagrangeinterpolation/</link><guid isPermaLink="true">https://faina.dev/posts/numerical_lagrangeinterpolation/</guid><pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;求$n$次多项式$L_n(x)=y_0l_0(x)+y_1l_1(x)+\dots+y_nl_n(x)$&lt;/p&gt;
+&lt;p&gt;使得$L_n(x_i)=y_i,i=0,1,2,\dots,n$&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;条件&lt;/strong&gt;：无重合节点，即$i\neq j \Longrightarrow x_i \neq x_j$&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;如何构造拉格朗日多项式？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;当$\boxed {n=1}$时已知$x_0,x_1;y_0,y_1$，求$L_1(x)=l_0(x)y_0+l_1(x)y_1$，使得$L_1(x_0)=y_0,L_1(x_1)=y_1$&lt;/p&gt;
+&lt;p&gt;可见$L_1(x)$是过$(x_0,y_0)$和$(x_1,y_1)$两点的直线&lt;/p&gt;
+&lt;p&gt;$$
+\begin{align}
+L_1(x)&amp;amp;=y_0+\frac{y_1-y_0}{x_1-x_0}(x-x_0) \newline &amp;amp;= \underbrace{\left(\frac{x-x_1}{x_0-x_1}\right)}&lt;em&gt;{l_0(x)}y_0+\underbrace{\left(\frac{x-x_0}{x_1-x_0}\right)}&lt;/em&gt;{l_1(x)}y_1 = \sum_{i=0}^{1}l_i(x_j)y_i
+\end{align}
+$$&lt;/p&gt;
+&lt;p&gt;$l_i(x)$称为&lt;strong&gt;拉氏基函数(Lagrange Basis)&lt;strong&gt;满足条件&lt;/strong&gt;$l_i(x_j)=\delta_{ij}$(Kronecker Delta)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;$$
+\begin{align}
+l_0(x_0) &amp;amp;= \frac{x_0-x_1}{x_0-x_1}=1 \newline
+l_0(x_1) &amp;amp;= \frac{x_1-x_1}{x_0-x_1}=0 \newline
+l_0(x_i) &amp;amp;= \begin{cases}1,x=x_0,i=0 \ 0,x=x_1,i=1\end{cases} \newline \text{若将0替换为j，则公式可化为：} \newline
+l_j(x_i) &amp;amp;= \begin{cases}1,x=x_0,i=j \ 0,x=x_1,i\neq j\end{cases}
+\end{align}
+$$&lt;/p&gt;
+&lt;p&gt;符合&lt;/p&gt;
+&lt;p&gt;$$
+\delta_{ij} = \begin{cases}1,i=j\0,i\neq j\end{cases}
+$$&lt;/p&gt;
+&lt;p&gt;当$\boxed {n\ge 1}$时，希望找到$l_i(x),i=0,\dots,n$使得$l_i(x_j)=\delta_{ij}$；然后令$L_n(x)=\sum_{i=0}^{n}l_i(x)y_i$，则显然有$L_n(x_i)=y_i$&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!important]
+只有在$i=j$时，才会得到$1$，其他都为$0$，所以求和中的$n$项只剩下了$1$项&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;$$
+L_n(x_i) = \sum &lt;em&gt;{j=0}^{n}l_j(x_i)y_j = \underbrace{l_i(x_i)}&lt;/em&gt;{=1}y_i = y_i
+$$&lt;/p&gt;
+&lt;p&gt;针对每个$\color{red}l_i$有$n$个零点，$\begin{aligned}\color{blue}x_0...\widehat{x_i}...x_n\end{aligned}$&lt;/p&gt;
+&lt;p&gt;$$
+\begin{aligned}
+&amp;amp;\begin{aligned}&amp;amp;{\rightarrow}{\color{red}l_i}(x)=C_i(x-x_0)...\widehat{(x-x_i)}...(x-x_n)=C_i\prod_{j\neq i,j=0}^n(x-x_j)\&amp;amp;{l_i(x_i)=}1\quad\boldsymbol{\rightarrow}{C_0=}\prod_{j\neq i}\frac{1}{(x_i-x_j)}\end{aligned} \
+&amp;amp;\boxed{l_i(x)=\prod_{j\neq i,j=0}^n\frac{(x-x_j)}{(x_i-x_j)}} \Longrightarrow \boxed{L_n(x)=\sum_{i=0}^nl_i(x)y_i}
+\end{aligned}
+$$&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;一点零次插值多项式&lt;/strong&gt;为&lt;/p&gt;
+&lt;p&gt;$$
+L_n(x)=y_0
+$$&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;两点一次插值 (线性插值) 多项式&lt;/strong&gt;为&lt;/p&gt;
+&lt;p&gt;$$
+{L_1(x)=\frac{x-x_1}{x_0-x_1}y_0+\frac{x-x_0}{x_1-x_0}y_1}
+$$&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;三点二次插值 (抛物插值) 多项式&lt;/strong&gt;为&lt;/p&gt;
+&lt;p&gt;$$
+L_2(x)=\frac{(x-x_1)(x-x_2)}{(x_0-x_1)(x_0-x_2)}y_0+\frac{(x-x_0)(x-x_2)}{(x_1-x_0)(x_1-x_2)}y_1+\frac{(x-x_0)(x-x_1)}{(x_2-x_0)(x_2-x_1)}y_2
+$$&lt;/p&gt;
+</content:encoded></item><item><title>牛顿插值</title><link>https://faina.dev/posts/numerical_newton/</link><guid isPermaLink="true">https://faina.dev/posts/numerical_newton/</guid><pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;问题&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;$Lagrange$插值简单易用，但若要增加或减少节点时，全部基函数$l_k(x)$都需要重新计算，不太方便。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;解决方法：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;设计一个可以&lt;strong&gt;逐次&lt;/strong&gt;生成插值多项式的算法，即&lt;/p&gt;
@@ -1651,9 +1721,10 @@ $$&lt;/p&gt;
 L_1(x)=\frac{x-x_1}{x_0-x_1}y_0+\frac{x-x_0}{x_1-x_0}y_1 = y_0 \cdot \boxed1 + \frac{y_0-y_1}{x_0-x_1}\boxed{(x-x_0)}
 $$&lt;/p&gt;
 &lt;p&gt;前者是由两点式表达的拉格朗日线性插值，而后者使用的是点斜式。&lt;/p&gt;
-&lt;p&gt;:::tip&lt;/p&gt;
-&lt;p&gt;无论是两点式还是点斜式只是在不同基函数情况下表征的同一线性函数&lt;/p&gt;
-&lt;p&gt;:::&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!tip]
+无论是两点式还是点斜式只是在不同基函数情况下表征的同一线性函数&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;拉格朗日三点二次插值（抛物插值）多项式为&lt;/p&gt;
 &lt;p&gt;$$
 \begin{align}
@@ -1687,61 +1758,12 @@ $$&lt;/p&gt;
 f[x_0,\dots,x_{k+1}]&amp;amp;=\frac{f[x_0,x_1,\dots,x_k]-f[x_1,\dots,x_k,x_{k+1}]}{x_0-x_{k+1}} \ &amp;amp;=\frac{f[x_0,x_1,\dots,x_k]-f[x_0,\dots,x_k,x_{k+1}]}{x_k-x_{k+1}}
 \end{align}
 $$&lt;/p&gt;
-&lt;p&gt;:::important
+&lt;blockquote&gt;
+&lt;p&gt;[!important]
 $k$阶差商必须由$k+1$个节点构成，$k$个节点是构造不出$k$阶差商的。&lt;/p&gt;
-&lt;p&gt;为了统一起见，补充定义函数$f(x_0)$为零阶差商
-:::&lt;/p&gt;
-</content:encoded></item><item><title>拉格朗日插值多项式</title><link>https://faina.me/posts/numerical_lagrangeinterpolation/</link><guid isPermaLink="true">https://faina.me/posts/numerical_lagrangeinterpolation/</guid><pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;求$n$次多项式$L_n(x)=y_0l_0(x)+y_1l_1(x)+\dots+y_nl_n(x)$&lt;/p&gt;
-&lt;p&gt;使得$L_n(x_i)=y_i,i=0,1,2,\dots,n$&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;条件&lt;/strong&gt;：无重合节点，即$i\neq j \Longrightarrow x_i \neq x_j$&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;如何构造拉格朗日多项式？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;当$\boxed {n=1}$时已知$x_0,x_1;y_0,y_1$，求$L_1(x)=l_0(x)y_0+l_1(x)y_1$，使得$L_1(x_0)=y_0,L_1(x_1)=y_1$&lt;/p&gt;
-&lt;p&gt;可见$L_1(x)$是过$(x_0,y_0)$和$(x_1,y_1)$两点的直线&lt;/p&gt;
-&lt;p&gt;$$
-\begin{align}
-L_1(x)&amp;amp;=y_0+\frac{y_1-y_0}{x_1-x_0}(x-x_0) \newline &amp;amp;= \underbrace{\left(\frac{x-x_1}{x_0-x_1}\right)}&lt;em&gt;{l_0(x)}y_0+\underbrace{\left(\frac{x-x_0}{x_1-x_0}\right)}&lt;/em&gt;{l_1(x)}y_1 = \sum_{i=0}^{1}l_i(x_j)y_i
-\end{align}
-$$&lt;/p&gt;
-&lt;p&gt;$l_i(x)$称为&lt;strong&gt;拉氏基函数(Lagrange Basis)&lt;strong&gt;满足条件&lt;/strong&gt;$l_i(x_j)=\delta_{ij}$(Kronecker Delta)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;$$
-\begin{align}
-l_0(x_0) &amp;amp;= \frac{x_0-x_1}{x_0-x_1}=1 \newline
-l_0(x_1) &amp;amp;= \frac{x_1-x_1}{x_0-x_1}=0 \newline
-l_0(x_i) &amp;amp;= \begin{cases}1,x=x_0,i=0 \ 0,x=x_1,i=1\end{cases} \newline \text{若将0替换为j，则公式可化为：} \newline
-l_j(x_i) &amp;amp;= \begin{cases}1,x=x_0,i=j \ 0,x=x_1,i\neq j\end{cases}
-\end{align}
-$$&lt;/p&gt;
-&lt;p&gt;符合&lt;/p&gt;
-&lt;p&gt;$$
-\delta_{ij} = \begin{cases}1,i=j\0,i\neq j\end{cases}
-$$&lt;/p&gt;
-&lt;p&gt;当$\boxed {n\ge 1}$时，希望找到$l_i(x),i=0,\dots,n$使得$l_i(x_j)=\delta_{ij}$；然后令$L_n(x)=\sum_{i=0}^{n}l_i(x)y_i$，则显然有$L_n(x_i)=y_i$&lt;/p&gt;
-&lt;p&gt;:::important&lt;/p&gt;
-&lt;p&gt;只有在$i=j$时，才会得到$1$，其他都为$0$，所以求和中的$n$项只剩下了$1$项&lt;/p&gt;
-&lt;p&gt;:::&lt;/p&gt;
-&lt;p&gt;$$
-L_n(x_i) = \sum &lt;em&gt;{j=0}^{n}l_j(x_i)y_j = \underbrace{l_i(x_i)}&lt;/em&gt;{=1}y_i = y_i
-$$&lt;/p&gt;
-&lt;p&gt;针对每个$\color{red}l_i$有$n$个零点，$\begin{aligned}\color{blue}x_0...\widehat{x_i}...x_n\end{aligned}$&lt;/p&gt;
-&lt;p&gt;$$
-\begin{aligned}
-&amp;amp;\begin{aligned}&amp;amp;{\rightarrow}{\color{red}l_i}(x)=C_i(x-x_0)...\widehat{(x-x_i)}...(x-x_n)=C_i\prod_{j\neq i,j=0}^n(x-x_j)\&amp;amp;{l_i(x_i)=}1\quad\boldsymbol{\rightarrow}{C_0=}\prod_{j\neq i}\frac{1}{(x_i-x_j)}\end{aligned} \
-&amp;amp;\boxed{l_i(x)=\prod_{j\neq i,j=0}^n\frac{(x-x_j)}{(x_i-x_j)}} \Longrightarrow \boxed{L_n(x)=\sum_{i=0}^nl_i(x)y_i}
-\end{aligned}
-$$&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;一点零次插值多项式&lt;/strong&gt;为&lt;/p&gt;
-&lt;p&gt;$$
-L_n(x)=y_0
-$$&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;两点一次插值 (线性插值) 多项式&lt;/strong&gt;为&lt;/p&gt;
-&lt;p&gt;$$
-{L_1(x)=\frac{x-x_1}{x_0-x_1}y_0+\frac{x-x_0}{x_1-x_0}y_1}
-$$&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;三点二次插值 (抛物插值) 多项式&lt;/strong&gt;为&lt;/p&gt;
-&lt;p&gt;$$
-L_2(x)=\frac{(x-x_1)(x-x_2)}{(x_0-x_1)(x_0-x_2)}y_0+\frac{(x-x_0)(x-x_2)}{(x_1-x_0)(x_1-x_2)}y_1+\frac{(x-x_0)(x-x_1)}{(x_2-x_0)(x_2-x_1)}y_2
-$$&lt;/p&gt;
-</content:encoded></item><item><title>Java基本语法</title><link>https://faina.me/posts/java_basic/</link><guid isPermaLink="true">https://faina.me/posts/java_basic/</guid><pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;&lt;strong&gt;逃逸字符&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;为了统一起见，补充定义函数$f(x_0)$为零阶差商&lt;/p&gt;
+&lt;/blockquote&gt;
+</content:encoded></item><item><title>Java基本语法</title><link>https://faina.dev/posts/java_basic/</link><guid isPermaLink="true">https://faina.dev/posts/java_basic/</guid><pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;&lt;strong&gt;逃逸字符&lt;/strong&gt;&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -1857,10 +1879,11 @@ public class Main{
     }  
 }
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;:::tip
-好处：可以更方便的使用函数
-:::&lt;/p&gt;
-</content:encoded></item><item><title>误差</title><link>https://faina.me/posts/numerical_deviation/</link><guid isPermaLink="true">https://faina.me/posts/numerical_deviation/</guid><pubDate>Sun, 03 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;提问：数值分析是做什么用的？&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!TIP]
+好处：可以更方便的使用函数&lt;/p&gt;
+&lt;/blockquote&gt;
+</content:encoded></item><item><title>误差</title><link>https://faina.dev/posts/numerical_deviation/</link><guid isPermaLink="true">https://faina.dev/posts/numerical_deviation/</guid><pubDate>Sun, 03 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;提问：数值分析是做什么用的？&lt;/p&gt;
 &lt;p&gt;输入复杂问题或运算&lt;/p&gt;
 &lt;p&gt;$$
 \sqrt{x},a^x,lnx,A\overrightarrow{x}=\overrightarrow{b},\int_{a}^{b}f(x)dx,\frac{d}{dx}f(x),\dots
@@ -1934,7 +1957,7 @@ $$&lt;/p&gt;
 \text{可取} \quad I_N^*=\frac{1}{2}\left[\frac{1}{e(N+1)}+\frac{1}{N+1} \right] \approx I_N
 $$&lt;/p&gt;
 &lt;p&gt;取得$I_N^*$后代入递推公式二&lt;/p&gt;
-</content:encoded></item><item><title>暑假集训第六篇周记（8月14号-8月20号）</title><link>https://faina.me/posts/summer_6/</link><guid isPermaLink="true">https://faina.me/posts/summer_6/</guid><pubDate>Wed, 16 Aug 2023 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;&lt;strong&gt;每日知识点&lt;/strong&gt;&lt;/h2&gt;
+</content:encoded></item><item><title>暑假集训第六篇周记（8月14号-8月20号）</title><link>https://faina.dev/posts/summer_6/</link><guid isPermaLink="true">https://faina.dev/posts/summer_6/</guid><pubDate>Wed, 16 Aug 2023 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;&lt;strong&gt;每日知识点&lt;/strong&gt;&lt;/h2&gt;
 &lt;h3&gt;&lt;strong&gt;第一天 8月14日：动态规划(Dynamic Programming, DP)&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;动态规划&lt;/strong&gt;是一种通过把原问题分解为相对简单的子问题的方式求解复杂问题的方法。&lt;/p&gt;
 &lt;p&gt;一些问题具有两个特征：重叠子结构、最优子结构。用$DP$可以高效率地处理具有这两个特征的问题&lt;/p&gt;
@@ -2181,7 +2204,7 @@ struct Matrix{         //定义矩阵
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr /&gt;
 &lt;p&gt;&lt;strong&gt;GCD和LCM&lt;/strong&gt;&lt;/p&gt;
-</content:encoded></item><item><title>暑假集训第五篇周记（8月7日-8月13日）</title><link>https://faina.me/posts/summer_5/</link><guid isPermaLink="true">https://faina.me/posts/summer_5/</guid><pubDate>Mon, 07 Aug 2023 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;&lt;strong&gt;每日知识点&lt;/strong&gt;&lt;/h2&gt;
+</content:encoded></item><item><title>暑假集训第五篇周记（8月7日-8月13日）</title><link>https://faina.dev/posts/summer_5/</link><guid isPermaLink="true">https://faina.dev/posts/summer_5/</guid><pubDate>Mon, 07 Aug 2023 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;&lt;strong&gt;每日知识点&lt;/strong&gt;&lt;/h2&gt;
 &lt;h3&gt;&lt;strong&gt;第一天8月7日：并查集&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;并查集&lt;/strong&gt;是一种常用的数据结构，用于解决集合合并和查询问题。它主要支持两种操作：&lt;strong&gt;合并（Union）&lt;strong&gt;和&lt;/strong&gt;查找（Find）&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;并查集通常用于解决一些关于元素之间连通性和集合之间合并的问题。经典应用场景包括：&lt;/p&gt;
@@ -3006,7 +3029,7 @@ int main()
     return 0;
 }
 &lt;/code&gt;&lt;/pre&gt;
-</content:encoded></item><item><title>暑假集训第四篇周记（7月31日-8月6日）</title><link>https://faina.me/posts/summer_4/</link><guid isPermaLink="true">https://faina.me/posts/summer_4/</guid><pubDate>Mon, 31 Jul 2023 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;&lt;strong&gt;每日知识点&lt;/strong&gt;&lt;/h2&gt;
+</content:encoded></item><item><title>暑假集训第四篇周记（7月31日-8月6日）</title><link>https://faina.dev/posts/summer_4/</link><guid isPermaLink="true">https://faina.dev/posts/summer_4/</guid><pubDate>Mon, 31 Jul 2023 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;&lt;strong&gt;每日知识点&lt;/strong&gt;&lt;/h2&gt;
 &lt;h3&gt;&lt;strong&gt;第一天 7月31日：贪心算法 (Greedy)&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;定义&lt;/strong&gt;：将整个问题分解成多个步骤，&lt;strong&gt;每个步骤都选取当前步骤的最优方案，直到所有步骤结束，以达到整体最优&lt;/strong&gt;；在每步都不考虑对后续步骤的影响；在后续步骤中也不再回头改变前面的选择，也就是不“悔棋”。&lt;/p&gt;
 &lt;p&gt;满足贪心法求解的问题需要满足以下特征：&lt;/p&gt;
@@ -3129,9 +3152,10 @@ while (!Q.empty()) {
             Q.push(v); // 入队（同时可能需要维护某些必要信息） 
 }
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;:::tip
-BFS是“全面扩散、逐层递进”；DFS是“一路到底、逐步回退”
-:::&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!tip]
+BFS是“全面扩散、逐层递进”；DFS是“一路到底、逐步回退”&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h2&gt;&lt;strong&gt;部分题目详细分析与总结&lt;/strong&gt;&lt;/h2&gt;
 &lt;h3&gt;&lt;strong&gt;第一天7月31日：贪心算法&lt;/strong&gt;&lt;/h3&gt;
 &lt;h4&gt;&lt;strong&gt;第一题 部分背包问题&lt;/strong&gt;&lt;/h4&gt;
@@ -3188,9 +3212,10 @@ int main() {
     return 0;
 }
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;:::tip
-所有物品的排序，是按照物品的单位价值从大到小排序的，这样的选择才是最优的。贪心算法中，需要每步选择最优的，以局部最优达到整体最优
-:::&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!TIP]
+所有物品的排序，是按照物品的单位价值从大到小排序的，这样的选择才是最优的。贪心算法中，需要每步选择最优的，以局部最优达到整体最优&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h3&gt;&lt;strong&gt;第二天8月1日：二叉树、深搜、宽搜、堆&lt;/strong&gt;&lt;/h3&gt;
 &lt;h4&gt;&lt;strong&gt;第一题：[NOIP2004 提高组] 合并果子 / [USACO06NOV] Fence Repair G&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;在一个果园里，多多已经将所有的果子打了下来，而且按果子的不同种类分成了不同的堆。多多决定把所有的果子合成一堆。&lt;/p&gt;
@@ -3208,11 +3233,12 @@ int main() {
 3            15
 1 2 9
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;:::tip
+&lt;blockquote&gt;
+&lt;p&gt;[!TIP]
 对于 $30%$ 的数据，保证有 $n \le 1000$：&lt;/p&gt;
 &lt;p&gt;对于 $50%$ 的数据，保证有 $n \le 5000$；&lt;/p&gt;
-&lt;p&gt;对于全部的数据，保证有 $n \le 10000$。
-:::&lt;/p&gt;
+&lt;p&gt;对于全部的数据，保证有 $n \le 10000$。&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;代码&lt;/strong&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;#include &amp;lt;iostream&amp;gt;
 #include &amp;lt;queue&amp;gt;
@@ -3540,9 +3566,10 @@ W.W.W.....W.
 &lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;3
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;:::tip[OUTPUT DETAILS]
+&lt;blockquote&gt;
+&lt;p&gt;[!tip]OUTPUT DETAILS
 There are three ponds: one in the upper left, one in the lower left, and one along the right side.&lt;/p&gt;
-&lt;p&gt;:::&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;代码&lt;/strong&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;#include &amp;lt;iostream&amp;gt;
 #include &amp;lt;queue&amp;gt;
@@ -3595,7 +3622,7 @@ void bfs(pos p){
     }
 }
 &lt;/code&gt;&lt;/pre&gt;
-</content:encoded></item><item><title>暑假集训第三篇周记（7月24日-7月30日）</title><link>https://faina.me/posts/summer_3/</link><guid isPermaLink="true">https://faina.me/posts/summer_3/</guid><pubDate>Mon, 24 Jul 2023 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;&lt;strong&gt;每日知识点&lt;/strong&gt;&lt;/h2&gt;
+</content:encoded></item><item><title>暑假集训第三篇周记（7月24日-7月30日）</title><link>https://faina.dev/posts/summer_3/</link><guid isPermaLink="true">https://faina.dev/posts/summer_3/</guid><pubDate>Mon, 24 Jul 2023 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;&lt;strong&gt;每日知识点&lt;/strong&gt;&lt;/h2&gt;
 &lt;h3&gt;&lt;strong&gt;第一天7月24日： 尺取法&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;尺取法&lt;/strong&gt;(又称双指针、Two Pointers)&lt;/p&gt;
 &lt;ul&gt;
@@ -3760,9 +3787,10 @@ D[x2+1][y2+1]  +=d;  //由于前面把d减了两次，多减了一次，这里�
 &lt;p&gt;&lt;img src=&quot;https://img.664558.xyz/20250323193123718.png&quot; alt=&quot;倍增法|400&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;如图，选择区间$i$后，下一个区间可以从区间A、B、C中选择，它们的左端点都在$i$内部。C是最优的，因为它的右端点最远。为了快速的高效查询，使用倍增法，预计算出一些“跳板”，快速找到后面的区间。&lt;/p&gt;
 &lt;p&gt;定义 &lt;code&gt;go[s][i]&lt;/code&gt;表示从第$s$个区间出发，走$2^i$个&lt;strong&gt;最优&lt;/strong&gt;区间后到达的区间&lt;/p&gt;
-&lt;p&gt;:::warning
-先跳大数后跳小数
-:::&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!warning]
+先跳大数后跳小数&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;计算 &lt;code&gt;go[][]&lt;/code&gt;有以下递推关系&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;go[s][i] = go[go[s][i-1]][i-1]  //先起跳2^i-1步，再跳2^i-1步，最终跳了2^i步
 &lt;/code&gt;&lt;/pre&gt;
@@ -3848,9 +3876,10 @@ int main(){
 &lt;hr /&gt;
 &lt;h4&gt;&lt;strong&gt;ST算法(Sparse Table)&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;ST算法是基于倍增原理的算法。ST算法源于这样一个原理：一个大区间若能被两个小区间覆盖，那么大区间的最值等于两个小区间的最值。例：大区间{4,7,9,6,3,6,4,8,7,5}被两个小区间{4,7,9,6,3,6,4,8}和{4,8,7,5}所覆盖，大区间的最小值为3，等于两个小区间的最小值，即min{3,4}为3。&lt;/p&gt;
-&lt;p&gt;:::tip
-这个例子特意让两个小区间有所重合，因为重合不影响结果。
-:::&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!TIP]
+这个例子特意让两个小区间有所重合，因为重合不影响结果。&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;从以上原理得到ST算法的基本思路，包括两个步骤：&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;把整个数列分为很多个小区间，并提前计算出每个小区间的最值；&lt;/li&gt;
@@ -4431,7 +4460,7 @@ int main() {
     return 0;
 }
 &lt;/code&gt;&lt;/pre&gt;
-</content:encoded></item><item><title>暑假集训第二篇周记（7月17日-7月23日）</title><link>https://faina.me/posts/summer_2/</link><guid isPermaLink="true">https://faina.me/posts/summer_2/</guid><pubDate>Sun, 23 Jul 2023 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;&lt;strong&gt;每日知识点&lt;/strong&gt;&lt;/h2&gt;
+</content:encoded></item><item><title>暑假集训第二篇周记（7月17日-7月23日）</title><link>https://faina.dev/posts/summer_2/</link><guid isPermaLink="true">https://faina.dev/posts/summer_2/</guid><pubDate>Sun, 23 Jul 2023 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;&lt;strong&gt;每日知识点&lt;/strong&gt;&lt;/h2&gt;
 &lt;h3&gt;&lt;strong&gt;第一天 7月17日：函数和递归&lt;/strong&gt;&lt;/h3&gt;
 &lt;h4&gt;&lt;strong&gt;1.1简单函数的编写&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;&lt;strong&gt;引入：计算两点欧几里德距离的函数&lt;/strong&gt;&lt;/p&gt;
@@ -4456,17 +4485,14 @@ int main() {
                            // hypot(a,b)的返回值为double类型
 }
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;:::tip&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!tip]&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;hypot函数的功能是计算——直角三角形斜边的长度。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;函数 &lt;code&gt;hypot(x,y)&lt;/code&gt;表示根据直角三角形的两直角边长度$x$和$y$计算其斜边的长度。&lt;/p&gt;
-&lt;p&gt;或者是从标点(x,y)到原点的距离，&lt;strong&gt;该函数的算法等同于 &lt;code&gt;sqrt(x*x+y*y)&lt;/code&gt;&lt;/strong&gt;。
-:::&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;hypot函数的功能是计算——直角三角形斜边的长度。&lt;/li&gt;
+&lt;li&gt;函数 &lt;code&gt;hypot(x,y)&lt;/code&gt;表示根据直角三角形的两直角边长度$x$和$y$计算其斜边的长度。&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;或者是从标点(x,y)到原点的距离，&lt;strong&gt;该函数的算法等同于 &lt;code&gt;sqrt(x*x+y*y)&lt;/code&gt;&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h4&gt;&lt;strong&gt;1.2 使用结构体的函数&lt;/strong&gt;&lt;/h4&gt;
 &lt;pre&gt;&lt;code&gt;struct Point{ double x, y; };
 double dist(struct Point a, struct Point b)
@@ -4503,9 +4529,10 @@ int main(){
   return 0;
 }
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;:::tip
+&lt;blockquote&gt;
+&lt;p&gt;[!TIP]
 程序使用了 &lt;code&gt;assert.h&lt;/code&gt;的 &lt;code&gt;assert&lt;/code&gt;宏来限制非法的函数调用：当$x&amp;gt;=0$不成立时，程序将异常终止，并给出了提示信息。&lt;/p&gt;
-&lt;p&gt;:::&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;断言assert&lt;/strong&gt; 的语义如下：如果表达式的值为$0$（假），则输出错误消息并终止程序的执行（一般还会出对话框，说明在什么地方引发了assert）；如果表达式为真，则不进行任何操作。因此，断言失败就表明程序存在一个bug。&lt;/p&gt;
 &lt;h4&gt;&lt;strong&gt;2 变量的作用域和变量的生存区&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;&lt;strong&gt;变量的作用域&lt;/strong&gt;：即变量的作用范围（或有效范围）。分为：局部变量和全局变量
@@ -4575,9 +4602,10 @@ int main() {
 &lt;pre&gt;&lt;code&gt;vector&amp;lt;int&amp;gt; v1; //一个存放int类型数据的vector容器
 vector&amp;lt;CA*&amp;gt; vecpCA; //用于存放CA对象的指针的vector容器
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;:::tip
-尖括号内还可以设置指针或者自定义数据类型
-:::&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!TIP]
+尖括号内还可以设置指针或者自定义数据类型&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;可以采用&lt;strong&gt;下标方式&lt;/strong&gt;、&lt;strong&gt;&lt;code&gt;vector.at()&lt;/code&gt;&lt;/strong&gt;、&lt;strong&gt;迭代器方式&lt;/strong&gt;访问vector容器中的元素，以下是vector容器的部分基本函数&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;#include &amp;lt;iostream&amp;gt;
 #include &amp;lt;vector&amp;gt;
@@ -5261,7 +5289,7 @@ int main() {
     return 0;
 }
 &lt;/code&gt;&lt;/pre&gt;
-</content:encoded></item><item><title>暑假集训第一篇周记（7月15日-7月16日）</title><link>https://faina.me/posts/summer_1/</link><guid isPermaLink="true">https://faina.me/posts/summer_1/</guid><pubDate>Sun, 16 Jul 2023 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;部分题目详细分析与总结&lt;/h2&gt;
+</content:encoded></item><item><title>暑假集训第一篇周记（7月15日-7月16日）</title><link>https://faina.dev/posts/summer_1/</link><guid isPermaLink="true">https://faina.dev/posts/summer_1/</guid><pubDate>Sun, 16 Jul 2023 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;部分题目详细分析与总结&lt;/h2&gt;
 &lt;h3&gt;&lt;strong&gt;第一题：A - A+B for Input-Output Practice (I)&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;基本题意&lt;/strong&gt;：输入不定行数的数据，每行数据存在一对$a$和$b$，计算$a+b$的值&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;难点&lt;/strong&gt;：数据不定行，在不出现数据时结束，有两种写法：&lt;/p&gt;
