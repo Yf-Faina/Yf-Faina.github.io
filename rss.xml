@@ -1,4 +1,172 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>岁杪二四</title><description>blog</description><link>https://faina.dev/</link><language>zh_CN</language><item><title>2025年终总结</title><link>https://faina.dev/posts/summary-2025/</link><guid isPermaLink="true">https://faina.dev/posts/summary-2025/</guid><pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;年终总结一拖再拖，古话说得好：一鼓作氣，再而衰，三而竭。所以不能再拖了&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>岁杪二四</title><description>blog</description><link>https://faina.dev/</link><language>zh_CN</language><item><title>2D变换</title><link>https://faina.dev/posts/2dtransformation/</link><guid isPermaLink="true">https://faina.dev/posts/2dtransformation/</guid><description>基础变换（旋转、平移、对称、缩放）</description><pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Transformation&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;modeling 模型变换&lt;/li&gt;
+&lt;li&gt;viewing 观测变换
+&lt;ul&gt;
+&lt;li&gt;View 视图/Camera transformation&lt;/li&gt;
+&lt;li&gt;Projection transformation 投影变换
+&lt;ul&gt;
+&lt;li&gt;Orthographic projection 正交投影变换&lt;/li&gt;
+&lt;li&gt;Perspective projection  透视投影变换&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Scale 缩放&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://img.664558.xyz/9c58f3a0a787b24075dfb82f07452f7b.png&quot; alt=&quot;&quot; /&gt;
+若设缩放变换后的图像上的点坐标为$(x&apos;,y&apos;)$，则可得：
+$$&lt;/p&gt;
+&lt;p&gt;\begin{align}
+x^{\prime} &amp;amp; =Sx \
+y^{\prime} &amp;amp; =Sy
+\end{align}
+$$
+其中，$S$为缩放系数，将上式子写为矩阵形式，可得：
+$$
+\begin{bmatrix}
+x^{\prime} \
+y^{\prime}
+\end{bmatrix}=
+\begin{bmatrix}
+S_{x} &amp;amp; 0 \
+0 &amp;amp; S_y
+\end{bmatrix}
+\begin{bmatrix}
+x \
+y
+\end{bmatrix}
+$$
+称由缩放系数组成矩阵为&lt;strong&gt;缩放矩阵&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!tip]
+对应$x$和$y$的缩放系数$S_x$和$S_y$可不相等，相等时为等比例缩放，不相等时为自由缩放&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;Reflection 对称&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://img.664558.xyz/bd162df57ff6ffc562e8eab1883e6d6c.png&quot; alt=&quot;&quot; /&gt;
+若设沿$y$轴对称变换后的图像上的点坐标为$(x&apos;,y&apos;)$，则可得：
+$$
+\begin{align}
+x&apos; &amp;amp;= -x \
+y&apos; &amp;amp;= y
+\end{align}
+$$
+将上式子写为矩阵形式，可得：
+$$
+\begin{bmatrix} x&apos; \ y&apos;\end{bmatrix} = \begin{bmatrix} -1 &amp;amp; 0 \ 0 &amp;amp; 1 \end{bmatrix} \begin{bmatrix} x \ y\end{bmatrix}
+$$&lt;/p&gt;
+&lt;h2&gt;Shear 切变&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://img.664558.xyz/226e7595c46a41a2994aa1e273430223.png&quot; alt=&quot;&quot; /&gt;
+经过观察可以发现， 切变后的图像：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;当 y=0 时，水平位移为 0&lt;/li&gt;
+&lt;li&gt;当 y=1 时，水平位移为 a&lt;/li&gt;
+&lt;li&gt;垂直位移始终为 0
+由此，若设切变后图像上的点坐标为$(x&apos;,y&apos;)$分析可得：
+$$
+\begin{align}
+x’&amp;amp;=x+ay \
+y’&amp;amp;=y
+\end{align}
+$$
+将上式子写为矩阵形式，可得：
+$$
+\begin{bmatrix} x&apos; \ y&apos;\end{bmatrix} = \begin{bmatrix} 1 &amp;amp; a \ 0 &amp;amp; 1 \end{bmatrix} \begin{bmatrix} x \ y\end{bmatrix}
+$$&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Rotate 旋转&lt;/h2&gt;
+&lt;h3&gt;逆时针&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://img.664558.xyz/2772abe2f9cb0b4ae0d63c6654c473c7.png&quot; alt=&quot;&quot; /&gt;
+旋转矩阵（注意上图的旋转方向是&lt;strong&gt;逆时针&lt;/strong&gt;）：
+$$
+R_{\theta} = \begin{bmatrix} \cos\theta &amp;amp; -\sin\theta \ \sin\theta &amp;amp; \cos\theta \end{bmatrix}
+$$&lt;/p&gt;
+&lt;h3&gt;顺时针&lt;/h3&gt;
+&lt;p&gt;顺时针旋转方向的旋转矩阵应该如何推导得到？
+如果$R_{\theta}$是逆时针旋转$\theta$角度，那么$R_{-\theta}$即为顺时针旋转$\theta$角度，将$-\theta$带入逆时针旋转矩阵得到：
+$$
+R_{-\theta} = \begin{bmatrix} \cos(-\theta) &amp;amp; -\sin(-\theta) \ \sin(-\theta) &amp;amp; \cos(-\theta)\end{bmatrix}
+$$
+由三角函数性质：
+$$
+\cos(-\theta)=\cos\theta,\quad\quad \sin(-\theta)=-\sin\theta
+$$
+得到：
+$$
+R_{-\theta}=\begin{bmatrix} \cos\theta &amp;amp; \sin\theta \ -\sin\theta &amp;amp; \cos\theta \end{bmatrix}
+$$&lt;/p&gt;
+&lt;h3&gt;结论&lt;/h3&gt;
+&lt;p&gt;观察可以发现，矩阵$R_{-\theta}=R_{\theta}^T$，从定义上来说，逆时针旋转与顺时针旋转互为逆操作，即$R_{-\theta}=R_{\theta}^{-1}$
+&lt;em&gt;线性代数中规定，当一个矩阵的逆矩阵与转置矩阵相等时，该矩阵即为正交矩阵&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;线性变换&lt;/h2&gt;
+&lt;p&gt;以上几种变换，可以发现，皆可写为如下形式的线性组合：
+$$
+\begin{align}
+x&apos;&amp;amp;=ax+by \
+y&apos;&amp;amp;=cx+dy
+\end{align}
+$$
+化为矩阵形式即为：
+$$
+\begin{align}
+\begin{bmatrix} x&apos; \ y&apos;\end{bmatrix} &amp;amp;= \begin{bmatrix} a&amp;amp;b\c&amp;amp;d\end{bmatrix}\begin{bmatrix} x\y\end{bmatrix} \
+x&apos;&amp;amp;=Mx
+\end{align}
+$$
+我们认为以上这种通过一个矩阵乘以输入坐标从而得到输出坐标的变换称为&lt;strong&gt;线性变换&lt;/strong&gt;
+&lt;strong&gt;缩放、对称、切变、旋转都是线性变换&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Homogenous Coordinates 齐次坐标&lt;/h2&gt;
+&lt;h3&gt;Translation 平移变换&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://img.664558.xyz/dac1e1dbb0343e99b9694f0559ecd82a.png&quot; alt=&quot;&quot; /&gt;
+设平移变换后的图像上的点坐标为$(x&apos;,y&apos;)$，则可得：
+$$
+\begin{align}
+x&apos; &amp;amp;= x+t_x \
+y&apos;&amp;amp;= y+t_y
+\end{align}
+$$
+将上式子写为矩阵形式，可得：
+$$
+\begin{align}
+\begin{bmatrix} x&apos; \ y&apos;\end{bmatrix} &amp;amp;= \begin{bmatrix} a&amp;amp;b\c&amp;amp;d\end{bmatrix}\begin{bmatrix} x\y\end{bmatrix} + \begin{bmatrix} t_x\ t_y\end{bmatrix}
+\end{align}
+$$&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!info]
+平移变换不是线性变换&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr /&gt;
+&lt;p&gt;为了让所有的变换都表示为一个矩阵乘以向量的形式，我们引入齐次坐标&lt;/p&gt;
+&lt;p&gt;在齐次坐标下，设二维点Point为$(x,y,1)^T$，二维向量Vector为$(x,y,0)^T$&lt;/p&gt;
+&lt;p&gt;证：在二维点和向量中人为添加数字$1$和$0$的意义
+设二维变换矩阵为：
+$$
+\begin{bmatrix} a &amp;amp; b &amp;amp; t_x \ c  &amp;amp; d &amp;amp; t_y \ 0 &amp;amp; 0 &amp;amp; 1\end{bmatrix}
+$$
+用该矩阵对向量$(x,y,0)^T$做变换，即：
+$$
+\begin{align}
+\begin{bmatrix} a &amp;amp; b &amp;amp; t_x \ c  &amp;amp; d &amp;amp; t_y \ 0 &amp;amp; 0 &amp;amp; 1\end{bmatrix}
+\begin{bmatrix} x \ y \ 0\end{bmatrix}= \begin{bmatrix} ax+by+0\cdot t_x \ cx+dy+ 0\cdot t_y \ 0\cdot x+0\cdot y+ 1\cdot 0\end{bmatrix} \text{得} \begin{bmatrix} ax+by \ cx+dy \ 0\end{bmatrix}
+\end{align}
+$$
+$\therefore$  向量只被线性变换影响，不受平移变换影响，符合向量具有平移不变形的性质。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;vector + vector = vector&lt;/li&gt;
+&lt;li&gt;point - point = vector&lt;/li&gt;
+&lt;li&gt;point + vector = point&lt;/li&gt;
+&lt;li&gt;point + point = 中点&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;在两点相加中，可以发现数字由$1+1$变为$2$，故对于点，我们引入更广泛的设法：$(x,y,w)^T$在$w\neq0$时表示的是$(\dfrac{x}{w},\dfrac{y}{w},1)^T$的点&lt;/p&gt;
+&lt;h2&gt;仿射(Affine)变换&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://zh.wikipedia.org/wiki/%E4%BB%BF%E5%B0%84%E5%8F%98%E6%8D%A2&quot;&gt;维基百科&lt;/a&gt;：&lt;strong&gt;仿射变换&lt;/strong&gt;（Affine transformation），又称&lt;strong&gt;仿射映射&lt;/strong&gt;，是指在几何中，对一个向量空间进行一次线性变换并接上一个平移，变换为另一个向量空间。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;二维变换矩阵对二维点的变换即为仿射变换：
+$$
+\begin{bmatrix} x&apos; \ y&apos; \ 1\end{bmatrix} = \begin{bmatrix} a&amp;amp;b&amp;amp;t_x \ c&amp;amp;d&amp;amp;t_y \ 0&amp;amp;0&amp;amp;1\end{bmatrix} \begin{bmatrix} x \ y \ 1\end{bmatrix}
+$$&lt;/p&gt;
+</content:encoded></item><item><title>2025年终总结</title><link>https://faina.dev/posts/summary-2025/</link><guid isPermaLink="true">https://faina.dev/posts/summary-2025/</guid><pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;年终总结一拖再拖，古话说得好：一鼓作氣，再而衰，三而竭。所以不能再拖了&lt;/p&gt;
 &lt;p&gt;如果说什么词贯穿了我的一年，那就是：焦虑。&lt;/p&gt;
 &lt;h2&gt;焦虑&lt;/h2&gt;
 &lt;p&gt;今年一年，焦虑情绪如影随形，像一只无形的大手牢牢钳住了我。现实被迫推动我开始审视很多现实问题&lt;/p&gt;
