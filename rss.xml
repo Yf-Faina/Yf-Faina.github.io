@@ -2035,7 +2035,7 @@ v 1.0
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;可以将一个基础类型的数据转换为&lt;a href=&quot;/zh/posts/Java%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/1.md&quot;&gt;对象&lt;/a&gt;的形式，使它们一样可以参与运算与传递&lt;/p&gt;
+&lt;p&gt;可以将一个基础类型的数据转换为&lt;a href=&quot;/posts/java_basic/&quot;&gt;对象&lt;/a&gt;的形式，使它们一样可以参与运算与传递&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;import java.util.Scanner;  
   
 public class Main{  
