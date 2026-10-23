@@ -1,4 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>岁杪二四</title><description>blog</description><link>https://faina.dev/</link><language>zh_CN</language><item><title>2D变换</title><link>https://faina.dev/posts/2dtransformation/</link><guid isPermaLink="true">https://faina.dev/posts/2dtransformation/</guid><description>基础变换（旋转、平移、对称、缩放）</description><pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Transformation&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>岁杪二四</title><description>blog</description><link>https://faina.dev/</link><language>zh_CN</language><item><title>可变性修饰符</title><link>https://faina.dev/posts/oop_mutability_modifiers/</link><guid isPermaLink="true">https://faina.dev/posts/oop_mutability_modifiers/</guid><pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;定义：&lt;strong&gt;可变性修饰符（Mutability Modifiers）&lt;/strong&gt; 用于定义变量、对象或数据结构在声明/初始化之后，其&lt;strong&gt;状态是否可以被修改&lt;/strong&gt;以及&lt;strong&gt;何时确定其值&lt;/strong&gt;。&lt;/p&gt;
+&lt;h2&gt;引入可变性修饰符的原因？&lt;/h2&gt;
+&lt;p&gt;默认情况下，普通变量是可变的：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;int count = 10;
+count = 20; // 允许重新赋值
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;但在复杂应用中，过度使用可变变量可能会导致：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;难以追踪状态变化：多处代码修改同一个变量，引发意外逻辑Bug&lt;/li&gt;
+&lt;li&gt;并发不安全：多线程或并发环境下，可变状态容易产生竞争条件&lt;/li&gt;
+&lt;li&gt;性能优化困难：在flutter中，不可变对象可以帮助框架识别组件是否需要重新进行绘制，从而大幅度节省CPU/GPU资源
+因此，引入不可变机制，主要分为两个层级：&lt;strong&gt;运行时不可变&lt;/strong&gt;和&lt;strong&gt;编译时不可变&lt;/strong&gt;。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;&lt;code&gt;final&lt;/code&gt; 运行时不可变&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;final&lt;/code&gt;是运行时不可变的（只读/ Single Assignment），其修饰的变量&lt;strong&gt;只能被赋值一次&lt;/strong&gt;，即在运行时计算确定。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;初始化时机：声明时直接赋值，或者在&lt;a href=&quot;/posts/java_object/&quot;&gt;构造函数&lt;/a&gt;中初始化&lt;/li&gt;
+&lt;li&gt;主要用途：修饰在程序运行过程中确定后就不再改变的数据，例如从网络接口读取的配置、用户输入的表单数据、传入 Widget 的参数等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;// 1. 声明时赋值（运行时获取当前时间）
+final DateTime now = DateTime.now();
+
+// 2. 在构造函数中赋值
+class User {
+  final String name; // 实例化后不能修改 name
+  User(this.name);
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;&lt;code&gt;const&lt;/code&gt; 编译时不可变&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;const&lt;/code&gt; 修饰的变量不仅&lt;strong&gt;只能赋值一次&lt;/strong&gt;，而且其值必须在编译期（Compile time）就完全确定。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;初始化时机&lt;/strong&gt;：编译阶段。其值必须是字面量（如字符串、数字）或其他已知的 &lt;code&gt;const&lt;/code&gt; 表达式。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;主要用途&lt;/strong&gt;：定义硬编码常量（如 API URL、固定颜色、数学常数），以及在 Flutter 中修饰&lt;strong&gt;不可变组件（UI 组件树优化）&lt;/strong&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!TIP] 内存复用机制&lt;/p&gt;
+&lt;p&gt;Dart中的&lt;code&gt;const&lt;/code&gt;对象在内存中具有&lt;strong&gt;规范化&lt;/strong&gt;特性，相同参数的&lt;code&gt;const&lt;/code&gt;对象在内存中只会创建一次副本并复用&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;var a = const [1, 2];
+var b = const [1, 2];
+print(identical(a, b)); // 输出 true！它们指向相同的内存地址
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;&lt;code&gt;late&lt;/code&gt;延迟初始化（Dart）&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;late&lt;/code&gt; 主要解决“变量非空且不能立即赋值”的问题，常与 &lt;code&gt;final&lt;/code&gt; 结合使用。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;主要用途&lt;/strong&gt;：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;延迟初始化&lt;/strong&gt;：变量在声明时不赋值，直到&lt;strong&gt;第一次使用时&lt;/strong&gt;才执行初始化逻辑。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;非空保证&lt;/strong&gt;：向 Dart 编译器承诺“该变量在使用前一定会赋值”，避免写成可为空的类型。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;class ProfileScreen {
+  // late final: 只能赋值一次，且延迟到第一次调用 _loadUserData() 时才执行
+  late final String userData = _loadUserData();
+
+  String _loadUserData() {
+    print(&apos;加载用户数据中...&apos;);
+    return &apos;User Profile Data&apos;;
+  }
+}
+&lt;/code&gt;&lt;/pre&gt;
+</content:encoded></item><item><title>2D变换</title><link>https://faina.dev/posts/2dtransformation/</link><guid isPermaLink="true">https://faina.dev/posts/2dtransformation/</guid><description>基础变换（旋转、平移、对称、缩放）</description><pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Transformation&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;modeling 模型变换&lt;/li&gt;
 &lt;li&gt;viewing 观测变换
